@@ -1,53 +1,696 @@
-﻿objectID,date,old_date,weekday,unixtimestamp,batch,contents,sender,senderimgurl,textimgurl,notes
-9984203,12/16/16 8:20 PM,2016-12-16 20:20:28,Friday,1481919628,DCNF,Talked with [redacted] follow up first thing Mon,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-01.png,null
-9940451,12/18/16 9:11 AM,2016-12-18 09:11:46,Sunday,1482052306,DCNF,There is no way he goes to london and it doesn't come up.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-02.png,null
-9905762,1/3/17 6:58 PM,2017-01-03 18:58:07,Tuesday,1483469887,DCNF,"Forgot one thing I wanted to mention - CG is having a briefing to the US Atty on Fri. I think Bill got us invited via SAC, at least for the firat 10 mimutes, we want to frame the case in the context of everything. Wanted to [garbled text]",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-03.png,null
-9275148,1/3/17 7:20 PM,2017-01-03 19:20:35,Tuesday,1483471235,DCNF,Well sh*t. Sorry Also ran into Andy in the garage. Sometimes I'm so God damn stupid awkward it's embarrassing. It kills me.,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-04.png,null
-9274741,1/3/17 7:38 PM,2017-01-03 19:38:53,Tuesday,1483472333,DCNF,"Why, what happened?",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-05.png,null
-9274732,1/3/17 8:03 PM,2017-01-03 20:03:21,Tuesday,1483473801,DCNF,To andy,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-06.png,null
-9131042,1/3/17 8:03 PM,2017-01-05 11:57:52,Tuesday,1483617472,DCNF,"Just called your desk. Sorry, crazy morning.",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-07.png,null
-8847604,1/5/17 11:58 AM,2017-01-05 11:58:29,Thursday,1483617509,DCNF,K. Walking back call you in 30 sec,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-08.png,null
-8723085,1/11/17 8:28 AM,2017-01-11 08:28:00,Wednesday,1484123280,DCNF,I can obviously talk if you want,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-09.png,null
-8614169,1/11/17 8:52 AM,2017-01-11 08:52:00,Wednesday,1484124720,DCNF,Ok I am inexplicably f*king waiting to get into the building,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-10.png,null
-8610161,1/13/17 12:00 AM,2017-01-13 00:00:54,Friday,1484265654,DCNF,"Just talked to Agency, can I talk to you Andy Jim?",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-11.png,null
-8524004,1/13/17 9:17 PM,2017-01-13 21:17:00,Friday,1484342220,DCNF,Wrong!,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-12.png,null
-8508064,1/13/17 9:18 PM,2017-01-13 21:18:00,Friday,1484342280,DCNF,Ok Donald,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-13.png,null
-8507993,1/14/17 9:11 AM,2017-01-14 09:11:00,Saturday,1484385060,DCNF,"Btw, see email. Team.",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-14.png,null
-8507948,1/23/17 6:45 AM,2017-01-23 06:45:42,Sunday,1485153942,DCNF,"I can feel my heart beating harder, I'm so stressed out about all the ways this has the potential to go fully off the rails.",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-15.png,null
-8507939,1/23/17 6:56 AM,2017-01-23 06:56:28,Monday,1485154588,DCNF,"I know. I just talked with John, we're getting together as soon as I get in to finish that write up for Andy this morning. I reminded John about how I had told Bill and the entire group that we should wait 30 to 60 days after the inauguration to change how were managing this stuff. As it is, he went ahead, and everything is completely falling off the rails. I think our stuff is good on our cases, but I have no hope or understanding about what they're doing on Jens side of the house. [redacted]",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-16.png,null
-8507644,1/23/17 8:23 AM,2017-01-23 08:23:28,Monday,1485159808,DCNF,Hope Hicks - Wikipedia https://en.m.wikipedia.org/wiki/Hope_Hicks,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-17.png,null
-8486002,1/23/17 12:12 PM,2017-01-23 12:12:16,Monday,1485173536,DCNF,Need to talk to you when you are done re [redacted],Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-18.png,null
-8286004,1/23/17 3:46 PM,2017-01-23 15:46:40,Monday,1485186400,DCNF,Did bill send the [redacted] lhm?,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-19.png,null
-8285023,1/24/17 11:19 AM,2017-01-24 11:19:00,Tuesday,1485256740,DCNF,I don't think the concern is you being there. The,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-20.png,null
-8283007,1/24/17 11:22 AM,2017-01-24 11:22:00,Tuesday,1485256920,DCNF,You should def sit in! Just if the desire is to h,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795469/all_messages_split_to_14000_4_content_only-00-21.png,null
-7906033,1/24/17 12:12 PM,2017-01-24 12:12:00,Tuesday,1485259920,DCNF,Good luck with her in there!,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795469/all_messages_split_to_14000_4_content_only-00-22.png,null
-6987389,1/24/17 12:12 PM,2017-01-24 12:12:24,Tuesday,1485259944,DCNF,And that right there is the populist appeal of my leadership style!,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795469/all_messages_split_to_14000_4_content_only-00-23.png,null
-6575821,1/25/17 7:21 AM,2017-01-25 07:21:55,Wednesday,1485328915,DCNF,Perfect. Sounds like you did it just right. And [redacted] would LOVE that. And it would be awesome for him.,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-24.png,null
-6350009,1/25/17 7:24 AM,2017-01-25 07:24:54,Wednesday,1485329094,DCNF,"Jr and he were talking about D and DD travel so it was the perfect opportunity to mention. Yeah, I know he will. I'm excited to tell him. He's going to be really grateful. Our relationship is really quite a special one. We really truly look out for each other. Him and my bonus, me and this, or other things he finds really hard to talk about bc of his personality, deference to andy, etc",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-25.png,null
-5637023,1/25/17 7:31 AM,2017-01-25 07:31:43,Wednesday,1485329503,DCNF,You two need to talk about what you're doing in 13 months… And I'm SO late. No way I get out the door before 8…,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-26.png,null
-5425773,1/25/17 7:32 AM,2017-01-25 07:32:30,Wednesday,1485329550,DCNF,I hope you stay. Is there any way you stay? And I can't help but get the feeling JB may leave well before the D....,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-27.png,null
-5357011,1/25/17 7:32 AM,2017-01-25 07:32:46,Wednesday,1485329566,DCNF,"Yeah, yeah, yeah... Sheesh! I'm almost done! Just have to go wrestle the stinker now...",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-28.png,null
-5354101,1/27/17 9:32 AM,2017-01-27 09:32:28,Friday,1485509548,DCNF,"You should cry. It's positive. It's awesome you're there. And yeah, you could, with 1.1. Or you could settle for 500 and not work crazy sick hours. All that really p*sses me off. I don't know why I simply can't be happy for him. I think it's my sense of injustice about it.",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795471/all_messages_split_to_14000_4_content_only-00-29.png,null
-5353024,1/27/17 11:03 PM,2017-01-27 23:03:25,Friday,1485558205,DCNF,It begins... NYTimes: Russian Charged With Treason Worked in Office Linked to Election Hacking Russian Charged With Treason Worked in Office Linked to Election Hacking https://nyti_ms/2iFJaoO,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795471/all_messages_split_to_14000_4_content_only-00-30.png,null
-5352061,1/28/17 10:23 AM,2017-01-28 10:23:00,Saturday,1485598980,DCNF,"I'm happy to do that as,",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795471/all_messages_split_to_14000_4_content_only-00-31.png,null
-5215483,1/28/17 10:23 AM,2017-01-28 10:23:33,Saturday,1485599013,DCNF,You could feel it coming in the air yesterday for some reason. That's why had my guy come in and give me a deep dive on rhe white board yesterday. Probably wasn't wasted effort.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795471/all_messages_split_to_14000_4_content_only-00-32.png,null
-5009277,2/3/17 6:19 AM,2017-02-03 06:19:10,Friday,1486102750,DCNF,Nothing like a 4:00 am email that British [redacted] needs to talk urgently. I'm on the road in 10....,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795472/all_messages_split_to_14000_4_content_only-00-33.png,null
-5009268,2/4/17 3:56 PM,2017-02-04 15:56:00,Friday,1486223760,DCNF,Music from banned countries? Not following. Like A,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795472/all_messages_split_to_14000_4_content_only-00-34.png,null
-5009222,2/4/17 3:57 PM,2017-02-04 15:57:00,Friday,1486223820,DCNF,"Yes, from the visa ban countries. Iran, Syria, etc",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795472/all_messages_split_to_14000_4_content_only-00-35.png,null
-4928044,2/4/17 3:58 PM,2017-02-04 15:58:00,Saturday,1486223880,DCNF,"Oh. Got it. Amazing you recognize songs. Thats re,",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795472/all_messages_split_to_14000_4_content_only-00-36.png,null
-4910915,2/4/17 8:19 PM,2017-02-04 20:19:00,Saturday,1486239540,DCNF,"Ha, did not realize that [redacted] is one of the ausas",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795473/all_messages_split_to_14000_4_content_only-00-37.png,null
-4765048,2/4/17 8:42 PM,2017-02-04 20:42:00,Saturday,1486240920,DCNF,And hi,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795473/all_messages_split_to_14000_4_content_only-00-38.png,null
-4753004,2/4/17 8:42 PM,2017-02-04 20:42:00,Saturday,1486240920,DCNF,Small world. [redacted] was in their scif working on,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795473/all_messages_split_to_14000_4_content_only-00-39.png,null
-4751006,2/5/17 7:48 AM,2017-02-05 07:48:49,Sunday,1486280929,DCNF,You think [redacted] would be interested in [redacted] or [redacted]?,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795473/all_messages_split_to_14000_4_content_only-00-40.png,null
-4712037,2/5/17 7:59 AM,2017-02-05 07:59:15,Sunday,1486281555,DCNF,Hmm. Maybe. Depends in large part on what [redacted] decides to do. CT is his first love after all….,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-41.png,null
-4591017,2/5/17 8:47 AM,2017-02-05 08:47:00,Sunday,1486284420,DCNF,You see the tweet about the Seattle judge?,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-42.png,null
-4503300,2/5/17 8:48 AM,2017-02-05 08:48:00,Sunday,1486284480,DCNF,I did.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-43.png,null
-4503200,2/5/17 12:28 PM,2017-02-05 12:28:55,Sunday,1486297735,DCNF,Check the red side from beth.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-44.png,null
-4423600,2/5/17 1:20 PM,2017-02-05 13:20:00,Sunday,1486300800,DCNF,[garbled text] [redacted] [garbled text] Hi there. Work clearly n,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-45.png,null
-4379502,2/6/17 5:53 PM,2017-02-06 17:53:33,Monday,1486403613,DCNF,Pete - I most certainly am not funning you. I do think you should be our attendee. The meeting is about the new Admin setting its strategy for the country that concerns you most (at least top two). The DD wants at least DAD attendance at all PCCs until further notice.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795475/all_messages_split_to_14000_4_content_only-00-46.png,null
-4379401,2/6/17 5:57 PM,2017-02-06 17:57:00,Monday,1486403820,DCNF,I'm not conflating anything. I get those are two very differerent relationships.,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795475/all_messages_split_to_14000_4_content_only-00-47.png,null
-4281801,2/6/17 5:57 PM,2017-02-06 17:57:11,Monday,1486403831,DCNF,"Except this country is in Jen's branch, no mine. And she will be ALL OVER this. The trick will be to keep her from appointing herself to all such PCCs, regardless of topic. And she does need an IA from [redacted] to back bench her.",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795475/all_messages_split_to_14000_4_content_only-00-48.png,null
-4262900,2/6/17 6:22 PM,2017-02-06 18:22:00,Monday,1486405320,DCNF,And don't conflate my email to Bill with my gratitude for you. That's totally unfair.,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795475/all_messages_split_to_14000_4_content_only-00-49.png,null
-4079087,2/6/17 6:22 PM,2017-02-06 18:22:59,Monday,1486405379,DCNF,I really don't understand how she has a monopoly on all work related to this country.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795488/all_messages_split_to_14000_4_content_only-00-50.png,null
-,,,,,,,,,,
-,,,,,,,,,,
+﻿objectID,date,old_date,unconverted_date,weekday,unixtimestamp,batch,noinbatch,contents,sender,senderimgurl,textimgurl,notes
+9984203,12/16/16 8:20 PM,2016-12-16 20:20:28,null,Friday,1481919628,DCNF,1,Talked with [redacted] follow up first thing Mon,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-01.png,null
+9984202,12/18/16 9:11 AM,2016-12-18 09:11:46,null,Sunday,1482052306,DCNF,2,There is no way he goes to london and it doesn't come up.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-02.png,null
+9984201,1/3/17 6:58 PM,2017-01-03 18:58:07,null,Tuesday,1483469887,DCNF,3,"Forgot one thing I wanted to mention - CG is having a briefing to the US Atty on Fri. I think Bill got us invited via SAC, at least for the firat 10 mimutes, we want to frame the case in the context of everything. Wanted to [garbled text]",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-03.png,null
+9984200,1/3/17 7:20 PM,2017-01-03 19:20:35,null,Tuesday,1483471235,DCNF,4,Well sh*t. Sorry Also ran into Andy in the garage. Sometimes I'm so God damn stupid awkward it's embarrassing. It kills me.,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-04.png,null
+9984199,1/3/17 7:38 PM,2017-01-03 19:38:53,null,Tuesday,1483472333,DCNF,5,"Why, what happened?",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-05.png,null
+9984198,1/3/17 8:03 PM,2017-01-03 20:03:21,null,Tuesday,1483473801,DCNF,6,To andy,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-06.png,null
+9984197,1/3/17 8:03 PM,2017-01-05 11:57:52,null,Tuesday,1483617472,DCNF,7,"Just called your desk. Sorry, crazy morning.",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-07.png,null
+9984196,1/5/17 11:58 AM,2017-01-05 11:58:29,null,Thursday,1483617509,DCNF,8,K. Walking back call you in 30 sec,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-08.png,null
+9984195,1/11/17 8:28 AM,2017-01-11 08:28:00,null,Wednesday,1484123280,DCNF,9,I can obviously talk if you want,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-09.png,null
+9984194,1/11/17 8:52 AM,2017-01-11 08:52:00,null,Wednesday,1484124720,DCNF,10,Ok I am inexplicably f*king waiting to get into the building,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-10.png,null
+9984193,1/13/17 12:00 AM,2017-01-13 00:00:54,null,Friday,1484265654,DCNF,11,"Just talked to Agency, can I talk to you Andy Jim?",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-11.png,null
+9984192,1/13/17 9:17 PM,2017-01-13 21:17:00,null,Friday,1484342220,DCNF,12,Wrong!,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-12.png,null
+9984191,1/13/17 9:18 PM,2017-01-13 21:18:00,null,Friday,1484342280,DCNF,13,Ok Donald,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-13.png,null
+9984190,1/14/17 9:11 AM,2017-01-14 09:11:00,null,Saturday,1484385060,DCNF,14,"Btw, see email. Team.",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795466/all_messages_split_to_14000_4_content_only-00-14.png,null
+9984189,1/23/17 6:45 AM,2017-01-23 06:45:42,null,Sunday,1485153942,DCNF,15,"I can feel my heart beating harder, I'm so stressed out about all the ways this has the potential to go fully off the rails.",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-15.png,null
+9984188,1/23/17 6:56 AM,2017-01-23 06:56:28,null,Monday,1485154588,DCNF,16,"I know. I just talked with John, we're getting together as soon as I get in to finish that write up for Andy this morning. I reminded John about how I had told Bill and the entire group that we should wait 30 to 60 days after the inauguration to change how were managing this stuff. As it is, he went ahead, and everything is completely falling off the rails. I think our stuff is good on our cases, but I have no hope or understanding about what they're doing on Jens side of the house. [redacted]",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-16.png,null
+9984187,1/23/17 8:23 AM,2017-01-23 08:23:28,null,Monday,1485159808,DCNF,17,Hope Hicks - Wikipedia https://en.m.wikipedia.org/wiki/Hope_Hicks,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-17.png,null
+9984186,1/23/17 12:12 PM,2017-01-23 12:12:16,null,Monday,1485173536,DCNF,18,Need to talk to you when you are done re [redacted],Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-18.png,null
+9984185,1/23/17 3:46 PM,2017-01-23 15:46:40,null,Monday,1485186400,DCNF,19,Did bill send the [redacted] lhm?,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-19.png,null
+9984184,1/24/17 11:19 AM,2017-01-24 11:19:00,null,Tuesday,1485256740,DCNF,20,I don't think the concern is you being there. The,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795468/all_messages_split_to_14000_4_content_only-00-20.png,null
+9984183,1/24/17 11:22 AM,2017-01-24 11:22:00,null,Tuesday,1485256920,DCNF,21,You should def sit in! Just if the desire is to h,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795469/all_messages_split_to_14000_4_content_only-00-21.png,null
+9984182,1/24/17 12:12 PM,2017-01-24 12:12:00,null,Tuesday,1485259920,DCNF,22,Good luck with her in there!,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795469/all_messages_split_to_14000_4_content_only-00-22.png,null
+9984181,1/24/17 12:12 PM,2017-01-24 12:12:24,null,Tuesday,1485259944,DCNF,23,And that right there is the populist appeal of my leadership style!,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795469/all_messages_split_to_14000_4_content_only-00-23.png,null
+9984180,1/25/17 7:21 AM,2017-01-25 07:21:55,null,Wednesday,1485328915,DCNF,24,Perfect. Sounds like you did it just right. And [redacted] would LOVE that. And it would be awesome for him.,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-24.png,null
+9984179,1/25/17 7:24 AM,2017-01-25 07:24:54,null,Wednesday,1485329094,DCNF,25,"Jr and he were talking about D and DD travel so it was the perfect opportunity to mention. Yeah, I know he will. I'm excited to tell him. He's going to be really grateful. Our relationship is really quite a special one. We really truly look out for each other. Him and my bonus, me and this, or other things he finds really hard to talk about bc of his personality, deference to andy, etc",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-25.png,null
+9984178,1/25/17 7:31 AM,2017-01-25 07:31:43,null,Wednesday,1485329503,DCNF,26,You two need to talk about what you're doing in 13 months… And I'm SO late. No way I get out the door before 8…,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-26.png,null
+9984177,1/25/17 7:32 AM,2017-01-25 07:32:30,null,Wednesday,1485329550,DCNF,27,I hope you stay. Is there any way you stay? And I can't help but get the feeling JB may leave well before the D....,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-27.png,null
+9984176,1/25/17 7:32 AM,2017-01-25 07:32:46,null,Wednesday,1485329566,DCNF,28,"Yeah, yeah, yeah... Sheesh! I'm almost done! Just have to go wrestle the stinker now...",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795470/all_messages_split_to_14000_4_content_only-00-28.png,null
+9984175,1/27/17 9:32 AM,2017-01-27 09:32:28,null,Friday,1485509548,DCNF,29,"You should cry. It's positive. It's awesome you're there. And yeah, you could, with 1.1. Or you could settle for 500 and not work crazy sick hours. All that really p*sses me off. I don't know why I simply can't be happy for him. I think it's my sense of injustice about it.",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795471/all_messages_split_to_14000_4_content_only-00-29.png,null
+9984174,1/27/17 11:03 PM,2017-01-27 23:03:25,null,Friday,1485558205,DCNF,30,It begins... NYTimes: Russian Charged With Treason Worked in Office Linked to Election Hacking Russian Charged With Treason Worked in Office Linked to Election Hacking https://nyti_ms/2iFJaoO,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795471/all_messages_split_to_14000_4_content_only-00-30.png,null
+9984173,1/28/17 10:23 AM,2017-01-28 10:23:00,null,Saturday,1485598980,DCNF,31,"I'm happy to do that as,",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795471/all_messages_split_to_14000_4_content_only-00-31.png,null
+9984172,1/28/17 10:23 AM,2017-01-28 10:23:33,null,Saturday,1485599013,DCNF,32,You could feel it coming in the air yesterday for some reason. That's why had my guy come in and give me a deep dive on rhe white board yesterday. Probably wasn't wasted effort.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795471/all_messages_split_to_14000_4_content_only-00-32.png,null
+9984171,2/3/17 6:19 AM,2017-02-03 06:19:10,null,Friday,1486102750,DCNF,33,Nothing like a 4:00 am email that British [redacted] needs to talk urgently. I'm on the road in 10....,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795472/all_messages_split_to_14000_4_content_only-00-33.png,null
+9984170,2/4/17 3:56 PM,2017-02-04 15:56:00,null,Friday,1486223760,DCNF,34,Music from banned countries? Not following. Like A,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795472/all_messages_split_to_14000_4_content_only-00-34.png,null
+9984169,2/4/17 3:57 PM,2017-02-04 15:57:00,null,Friday,1486223820,DCNF,35,"Yes, from the visa ban countries. Iran, Syria, etc",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795472/all_messages_split_to_14000_4_content_only-00-35.png,null
+9984168,2/4/17 3:58 PM,2017-02-04 15:58:00,null,Saturday,1486223880,DCNF,36,"Oh. Got it. Amazing you recognize songs. Thats re,",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795472/all_messages_split_to_14000_4_content_only-00-36.png,null
+9984167,2/4/17 8:19 PM,2017-02-04 20:19:00,null,Saturday,1486239540,DCNF,37,"Ha, did not realize that [redacted] is one of the ausas",Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795473/all_messages_split_to_14000_4_content_only-00-37.png,null
+9984166,2/4/17 8:42 PM,2017-02-04 20:42:00,null,Saturday,1486240920,DCNF,38,And hi,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795473/all_messages_split_to_14000_4_content_only-00-38.png,null
+9984165,2/4/17 8:42 PM,2017-02-04 20:42:00,null,Saturday,1486240920,DCNF,39,Small world. [redacted] was in their scif working on,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795473/all_messages_split_to_14000_4_content_only-00-39.png,null
+9984164,2/5/17 7:48 AM,2017-02-05 07:48:49,null,Sunday,1486280929,DCNF,40,You think [redacted] would be interested in [redacted] or [redacted]?,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795473/all_messages_split_to_14000_4_content_only-00-40.png,null
+9984163,2/5/17 7:59 AM,2017-02-05 07:59:15,null,Sunday,1486281555,DCNF,41,Hmm. Maybe. Depends in large part on what [redacted] decides to do. CT is his first love after all….,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-41.png,null
+9984162,2/5/17 8:47 AM,2017-02-05 08:47:00,null,Sunday,1486284420,DCNF,42,You see the tweet about the Seattle judge?,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-42.png,null
+9984161,2/5/17 8:48 AM,2017-02-05 08:48:00,null,Sunday,1486284480,DCNF,43,I did.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-43.png,null
+9984160,2/5/17 12:28 PM,2017-02-05 12:28:55,null,Sunday,1486297735,DCNF,44,Check the red side from beth.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-44.png,null
+9984159,2/5/17 1:20 PM,2017-02-05 13:20:00,null,Sunday,1486300800,DCNF,45,[garbled text] [redacted] [garbled text] Hi there. Work clearly n,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795474/all_messages_split_to_14000_4_content_only-00-45.png,null
+9984158,2/6/17 5:53 PM,2017-02-06 17:53:33,null,Monday,1486403613,DCNF,46,Pete - I most certainly am not funning you. I do think you should be our attendee. The meeting is about the new Admin setting its strategy for the country that concerns you most (at least top two). The DD wants at least DAD attendance at all PCCs until further notice.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795475/all_messages_split_to_14000_4_content_only-00-46.png,null
+9984157,2/6/17 5:57 PM,2017-02-06 17:57:00,null,Monday,1486403820,DCNF,47,I'm not conflating anything. I get those are two very differerent relationships.,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795475/all_messages_split_to_14000_4_content_only-00-47.png,null
+9984156,2/6/17 5:57 PM,2017-02-06 17:57:11,null,Monday,1486403831,DCNF,48,"Except this country is in Jen's branch, no mine. And she will be ALL OVER this. The trick will be to keep her from appointing herself to all such PCCs, regardless of topic. And she does need an IA from [redacted] to back bench her.",Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795475/all_messages_split_to_14000_4_content_only-00-48.png,null
+9984155,2/6/17 6:22 PM,2017-02-06 18:22:00,null,Monday,1486405320,DCNF,49,And don't conflate my email to Bill with my gratitude for you. That's totally unfair.,Strzok,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796175/Strzok_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795475/all_messages_split_to_14000_4_content_only-00-49.png,null
+9984154,2/6/17 6:22 PM,2017-02-06 18:22:59,null,Monday,1486405379,DCNF,50,I really don't understand how she has a monopoly on all work related to this country.,Page,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536796178/Page_round_300.png,https://res.cloudinary.com/dzuo8xgmx/image/upload/v1536795488/all_messages_split_to_14000_4_content_only-00-50.png,null
+9984153,2/6/17 6:29 PM,2017-02-06 18:29:00,null,Saturday,1486405740,DCNF,51,null,,,,null
+9984152,2/6/17 6:29 PM,2017-02-06 18:29:16,null,Saturday,1486405756,DCNF,52,null,,,,null
+9984151,2/6/17 6:40 PM,2017-02-06 18:40:00,null,Saturday,1486406400,DCNF,53,null,,,,null
+9984150,2/6/17 6:40 PM,2017-02-06 18:40:28,null,Saturday,1486406428,DCNF,54,null,,,,null
+9984149,2/6/17 6:42 PM,2017-02-06 18:42:00,null,Saturday,1486406520,DCNF,55,null,,,,null
+9984148,2/6/17 6:42 PM,2017-02-06 18:42:47,null,Saturday,1486406567,DCNF,56,null,,,,null
+9984147,2/6/17 7:04 PM,2017-02-06 19:04:25,null,Saturday,1486407865,DCNF,57,null,,,,null
+9984146,2/7/17 4:35 PM,2017-02-07 16:35:54,null,Saturday,1486485354,DCNF,58,null,,,,null
+9984145,2/7/17 5:46 PM,2017-02-07 17:46:09,null,Saturday,1486489569,DCNF,59,null,,,,null
+9984144,2/7/17 6:44 PM,2017-02-07 18:44:08,null,Saturday,1486493048,DCNF,60,null,,,,null
+9984143,2/7/17 6:44 PM,2017-02-07 18:44:53,null,Saturday,1486493093,DCNF,61,null,,,,null
+9984142,2/7/17 7:16 PM,2017-02-07 19:16:55,null,Saturday,1486495015,DCNF,62,null,,,,null
+9984141,2/7/17 7:21 PM,2017-02-07 19:21:05,null,Saturday,1486495265,DCNF,63,null,,,,null
+9984140,2/7/17 7:21 PM,2017-02-07 19:21:33,null,Saturday,1486495293,DCNF,64,null,,,,null
+9984139,2/8/17 7:02 PM,2017-02-08 19:02:37,null,Saturday,1486580557,DCNF,65,null,,,,null
+9984138,2/9/17 10:54 AM,2017-02-09 10:54:18,null,Saturday,1486637658,DCNF,66,null,,,,null
+9984137,2/9/17 11:01 AM,2017-02-09 11:01:20,null,Saturday,1486638080,DCNF,67,null,,,,null
+9984136,2/9/17 11:01 AM,2017-02-09 11:01:28,null,Saturday,1486638088,DCNF,68,null,,,,null
+9984135,2/9/17 11:01 AM,2017-02-09 11:01:58,null,Saturday,1486638118,DCNF,69,null,,,,null
+9984134,2/9/17 11:02 AM,2017-02-09 11:02:16,null,Saturday,1486638136,DCNF,70,null,,,,null
+9984133,2/9/17 2:51 PM,2017-02-09 14:51:39,null,Saturday,1486651899,DCNF,71,null,,,,null
+9984132,2/9/17 2:56 PM,2017-02-09 14:56:06,null,Saturday,1486652166,DCNF,72,null,,,,null
+9984131,2/9/17 3:12 PM,2017-02-09 15:12:59,null,Saturday,1486653179,DCNF,73,null,,,,null
+9984130,2/9/17 3:13 PM,2017-02-09 15:13:53,null,Saturday,1486653233,DCNF,74,null,,,,null
+9984129,2/9/17 3:24 PM,2017-02-09 15:24:18,null,Saturday,1486653858,DCNF,75,null,,,,null
+9984128,2/9/17 11:20 PM,2017-02-09 23:20:42,null,Saturday,1486682442,DCNF,76,null,,,,null
+9984127,2/13/17 6:36 AM,2017-02-13 06:36:20,null,Saturday,1486967780,DCNF,77,null,,,,null
+9984126,2/13/17 7:57 AM,2017-02-13 07:57:31,null,Saturday,1486972651,DCNF,78,null,,,,null
+9984125,2/13/17 7:57 AM,2017-02-13 07:57:52,null,Saturday,1486972672,DCNF,79,null,,,,null
+9984124,2/13/17 7:57 AM,2017-02-13 07:57:56,null,Saturday,1486972676,DCNF,80,null,,,,null
+9984123,2/13/17 7:58 AM,2017-02-13 07:58:14,null,Saturday,1486972694,DCNF,81,null,,,,null
+9984122,2/13/17 7:58 AM,2017-02-13 07:58:35,null,Saturday,1486972715,DCNF,82,null,,,,null
+9984121,2/13/17 7:58 AM,2017-02-13 07:58:53,null,Saturday,1486972733,DCNF,83,null,,,,null
+9984120,2/13/17 8:28 AM,2017-02-13 08:28:23,null,Saturday,1486974503,DCNF,84,null,,,,null
+9984119,2/13/17 8:32 AM,2017-02-13 08:32:42,null,Saturday,1486974762,DCNF,85,null,,,,null
+9984118,2/13/17 8:32 AM,2017-02-13 08:32:53,null,Saturday,1486974773,DCNF,86,null,,,,null
+9984117,2/13/17 8:43 AM,2017-02-13 08:43:35,null,Saturday,1486975415,DCNF,87,null,,,,null
+9984116,2/13/17 8:43 AM,2017-02-13 08:43:55,null,Saturday,1486975435,DCNF,88,null,,,,null
+9984115,2/13/17 8:54 AM,2017-02-13 08:54:52,null,Saturday,1486976092,DCNF,89,null,,,,null
+9984114,2/13/17 8:56 AM,2017-02-13 08:56:15,null,Saturday,1486976175,DCNF,90,null,,,,null
+9984113,2/14/17 3:37 PM,2017-02-14 15:37:38,null,Saturday,1487086658,DCNF,91,null,,,,null
+9984112,2/14/17 3:38 PM,2017-02-14 15:38:20,null,Saturday,1487086700,DCNF,92,null,,,,null
+9984111,2/14/17 3:50 PM,2017-02-14 15:50:41,null,Saturday,1487087441,DCNF,93,null,,,,null
+9984110,2/14/17 3:56 PM,2017-02-14 15:56:29,null,Saturday,1487087789,DCNF,94,null,,,,null
+9984109,2/14/17 3:56 PM,2017-02-14 15:56:49,null,Saturday,1487087809,DCNF,95,null,,,,null
+9984108,2/14/17 9:06 PM,2017-02-14 21:06:39,null,Saturday,1487106399,DCNF,96,null,,,,null
+9984107,2/15/17 9:24 PM,2017-02-15 21:24:00,null,Saturday,1487193840,DCNF,97,null,,,,null
+9984106,2/15/17 9:25 PM,2017-02-15 21:25:00,null,Saturday,1487193900,DCNF,98,null,,,,null
+9984105,2/15/17 9:32 PM,2017-02-15 21:32:00,null,Saturday,1487194320,DCNF,99,null,,,,null
+9984104,2/15/17 9:32 PM,2017-02-15 21:32:00,null,Saturday,1487194320,DCNF,100,null,,,,null
+9984103,2/16/17 12:48 PM,2017-02-16 12:48:12,null,Saturday,1487249292,DCNF,101,null,,,,null
+9984102,2/17/17 2:49 PM,2017-02-17 14:49:14,null,Saturday,1487342954,DCNF,102,null,,,,null
+9984101,2/22/17 6:25 AM,2017-02-22 06:25:04,null,Saturday,1487744704,DCNF,103,null,,,,null
+9984100,2/22/17 6:32 AM,2017-02-22 06:32:21,null,Saturday,1487745141,DCNF,104,null,,,,null
+9984099,2/22/17 7:04 AM,2017-02-22 07:04:58,null,Saturday,1487747098,DCNF,105,null,,,,null
+9984098,2/24/17 12:00 PM,2017-02-24 12:00:25,null,Saturday,1487937625,DCNF,106,null,,,,null
+9984097,2/27/17 9:32 AM,2017-02-27 09:32:00,null,Saturday,1488187920,DCNF,107,null,,,,null
+9984096,2/27/17 9:32 AM,2017-02-27 09:32:00,null,Saturday,1488187920,DCNF,108,null,,,,null
+9984095,2/27/17 10:06 AM,2017-02-27 10:06:00,null,Saturday,1488189960,DCNF,109,null,,,,null
+9984094,2/27/17 10:39 AM,2017-02-27 10:39:00,null,Saturday,1488191940,DCNF,110,null,,,,null
+9984093,2/27/17 10:39 AM,2017-02-27 10:39:00,null,Saturday,1488191940,DCNF,111,null,,,,null
+9984092,2/27/17 10:41 AM,2017-02-27 10:41:00,null,Saturday,1488192060,DCNF,112,null,,,,null
+9984091,2/27/17 10:54 AM,2017-02-27 10:54:00,null,Saturday,1488192840,DCNF,113,null,,,,null
+9984090,2/27/17 10:54 AM,2017-02-27 10:54:00,null,Saturday,1488192840,DCNF,114,null,,,,null
+9984089,2/27/17 10:55 AM,2017-02-27 10:55:00,null,Saturday,1488192900,DCNF,115,null,,,,null
+9984088,2/27/17 12:22 PM,2017-02-27 12:22:00,null,Saturday,1488198120,DCNF,116,null,,,,null
+9984087,2/27/17 12:58 PM,2017-02-27 12:58:00,null,Saturday,1488200280,DCNF,117,null,,,,null
+9984086,2/27/17 12:58 PM,2017-02-27 12:58:00,null,Saturday,1488200280,DCNF,118,null,,,,null
+9984085,2/27/17 1:01 PM,2017-02-27 13:01:00,null,Saturday,1488200460,DCNF,119,null,,,,null
+9984084,2/27/17 1:02 PM,2017-02-27 13:02:00,null,Saturday,1488200520,DCNF,120,null,,,,null
+9984083,2/27/17 1:04 PM,2017-02-27 13:04:00,null,Saturday,1488200640,DCNF,121,null,,,,null
+9984082,2/27/17 1:25 PM,2017-02-27 13:25:00,null,Saturday,1488201900,DCNF,122,null,,,,null
+9984081,2/27/17 1:55 PM,2017-02-27 13:55:00,null,Saturday,1488203700,DCNF,123,null,,,,null
+9984080,2/27/17 4:37 PM,2017-02-27 16:37:00,null,Saturday,1488213420,DCNF,124,null,,,,null
+9984079,2/27/17 6:10 PM,2017-02-27 18:10:00,null,Saturday,1488219000,DCNF,125,null,,,,null
+9984078,2/27/17 7:03 PM,2017-02-27 19:03:00,null,Saturday,1488222180,DCNF,126,null,,,,null
+9984077,2/27/17 7:46 PM,2017-02-27 19:46:37,null,Saturday,1488224797,DCNF,127,null,,,,null
+9984076,2/27/17 9:31 PM,2017-02-27 21:31:00,null,Saturday,1488231060,DCNF,128,null,,,,null
+9984075,2/27/17 9:35 PM,2017-02-27 21:35:00,null,Saturday,1488231300,DCNF,129,null,,,,null
+9984074,2/27/17 9:37 PM,2017-02-27 21:37:00,null,Saturday,1488231420,DCNF,130,null,,,,null
+9984073,2/27/17 9:37 PM,2017-02-27 21:37:00,null,Saturday,1488231420,DCNF,131,null,,,,null
+9984072,2/27/17 9:39 PM,2017-02-27 21:39:00,null,Saturday,1488231540,DCNF,132,null,,,,null
+9984071,2/27/17 9:39 PM,2017-02-27 21:39:00,null,Saturday,1488231540,DCNF,133,null,,,,null
+9984070,2/27/17 9:40 PM,2017-02-27 21:40:00,null,Saturday,1488231600,DCNF,134,null,,,,null
+9984069,2/27/17 9:40 PM,2017-02-27 21:40:00,null,Saturday,1488231600,DCNF,135,null,,,,null
+9984068,2/27/17 9:41 PM,2017-02-27 21:41:00,null,Saturday,1488231660,DCNF,136,null,,,,null
+9984067,2/27/17 9:44 PM,2017-02-27 21:44:00,null,Saturday,1488231840,DCNF,137,null,,,,null
+9984066,2/27/17 9:45 PM,2017-02-27 21:45:00,null,Saturday,1488231900,DCNF,138,null,,,,null
+9984065,2/28/17 7:20 PM,2017-02-28 19:20:00,null,Saturday,1488309600,DCNF,139,null,,,,null
+9984064,2/28/17 7:31 PM,2017-02-28 19:31:00,null,Saturday,1488310260,DCNF,140,null,,,,null
+9984063,2/28/17 7:33 PM,2017-02-28 19:33:00,null,Saturday,1488310380,DCNF,141,null,,,,null
+9984062,2/28/17 7:35 PM,2017-02-28 19:35:00,null,Saturday,1488310500,DCNF,142,null,,,,null
+9984061,2/28/17 7:37 PM,2017-02-28 19:37:00,null,Saturday,1488310620,DCNF,143,null,,,,null
+9984060,2/28/17 7:38 PM,2017-02-28 19:38:00,null,Saturday,1488310680,DCNF,144,null,,,,null
+9984059,2/28/17 7:41 PM,2017-02-28 19:41:00,null,Saturday,1488310860,DCNF,145,null,,,,null
+9984058,2/28/17 7:41 PM,2017-02-28 19:41:00,null,Saturday,1488310860,DCNF,146,null,,,,null
+9984057,2/28/17 7:42 PM,2017-02-28 19:42:00,null,Saturday,1488310920,DCNF,147,null,,,,null
+9984056,2/28/17 7:42 PM,2017-02-28 19:42:00,null,Saturday,1488310920,DCNF,148,null,,,,null
+9984055,2/28/17 7:43 PM,2017-02-28 19:43:00,null,Saturday,1488310980,DCNF,149,null,,,,null
+9984054,2/28/17 7:44 PM,2017-02-28 19:44:00,null,Saturday,1488311040,DCNF,150,null,,,,null
+9984053,2/28/17 7:53 PM,2017-02-28 19:53:00,null,Saturday,1488311580,DCNF,151,null,,,,null
+9984052,2/28/17 8:01 PM,2017-02-28 20:01:00,null,Saturday,1488312060,DCNF,152,null,,,,null
+9984051,2/28/17 8:01 PM,2017-02-28 20:01:00,null,Saturday,1488312060,DCNF,153,null,,,,null
+9984050,2/28/17 8:01 PM,2017-02-28 20:01:00,null,Saturday,1488312060,DCNF,154,null,,,,null
+9984049,2/28/17 8:02 PM,2017-02-28 20:02:00,null,Saturday,1488312120,DCNF,155,null,,,,null
+9984048,2/28/17 8:03 PM,2017-02-28 20:03:00,null,Saturday,1488312180,DCNF,156,null,,,,null
+9984047,2/28/17 8:17 PM,2017-02-28 20:17:00,null,Saturday,1488313020,DCNF,157,null,,,,null
+9984046,2/28/17 9:11 PM,2017-02-28 21:11:00,null,Saturday,1488316260,DCNF,158,null,,,,null
+9984045,2/28/17 9:12 PM,2017-02-28 21:12:00,null,Saturday,1488316320,DCNF,159,null,,,,null
+9984044,3/1/17 12:03 PM,2017-03-01 12:03:00,null,Saturday,1488369780,DCNF,160,null,,,,null
+9984043,3/1/17 12:09 PM,2017-03-01 12:09:00,null,Saturday,1488370140,DCNF,161,null,,,,null
+9984042,3/1/17 12:09 PM,2017-03-01 12:09:00,null,Saturday,1488370140,DCNF,162,null,,,,null
+9984041,3/1/17 3:57 PM,2017-03-01 15:57:00,null,Saturday,1488383820,DCNF,163,null,,,,null
+9984040,3/1/17 4:01 PM,2017-03-01 16:01:00,null,Saturday,1488384060,DCNF,164,null,,,,null
+9984039,3/1/17 5:46 PM,2017-03-01 17:46:00,null,Saturday,1488390360,DCNF,165,null,,,,null
+9984038,3/1/17 8:01 PM,2017-03-01 20:01:00,null,Saturday,1488398460,DCNF,166,null,,,,null
+9984037,3/1/17 8:01 PM,2017-03-01 20:01:00,null,Saturday,1488398460,DCNF,167,null,,,,null
+9984036,3/1/17 8:01 PM,2017-03-01 20:01:00,null,Saturday,1488398460,DCNF,168,null,,,,null
+9984035,3/1/17 8:02 PM,2017-03-01 20:02:00,null,Saturday,1488398520,DCNF,169,null,,,,null
+9984034,3/1/17 8:02 PM,2017-03-01 20:02:00,null,Saturday,1488398520,DCNF,170,null,,,,null
+9984033,3/1/17 8:02 PM,2017-03-01 20:02:05,null,Saturday,1488398525,DCNF,171,null,,,,null
+9984032,3/1/17 8:03 PM,2017-03-01 20:03:00,null,Saturday,1488398580,DCNF,172,null,,,,null
+9984031,3/1/17 8:03 PM,2017-03-01 20:03:00,null,Saturday,1488398580,DCNF,173,null,,,,null
+9984030,3/1/17 8:04 PM,2017-03-01 20:04:00,null,Saturday,1488398640,DCNF,174,null,,,,null
+9984029,3/1/17 8:05 PM,2017-03-01 20:05:00,null,Saturday,1488398700,DCNF,175,null,,,,null
+9984028,3/1/17 8:05 PM,2017-03-01 20:05:00,null,Saturday,1488398700,DCNF,176,null,,,,null
+9984027,3/1/17 8:06 PM,2017-03-01 20:06:00,null,Saturday,1488398760,DCNF,177,null,,,,null
+9984026,3/1/17 8:29 PM,2017-03-01 20:29:00,null,Saturday,1488400140,DCNF,178,null,,,,null
+9984025,3/1/17 10:09 PM,2017-03-01 22:09:00,null,Saturday,1488406140,DCNF,179,null,,,,null
+9984024,3/1/17 10:13 PM,2017-03-01 22:13:00,null,Saturday,1488406380,DCNF,180,null,,,,null
+9984023,3/2/17 4:30 PM,2017-03-02 16:30:00,null,Saturday,1488472200,DCNF,181,null,,,,null
+9984022,3/2/17 4:31 PM,2017-03-02 16:31:00,null,Saturday,1488472260,DCNF,182,null,,,,null
+9984021,3/2/17 4:31 PM,2017-03-02 16:31:00,null,Saturday,1488472260,DCNF,183,null,,,,null
+9984020,3/2/17 4:31 PM,2017-03-02 16:31:00,null,Saturday,1488472260,DCNF,184,null,,,,null
+9984019,3/2/17 4:31 PM,2017-03-02 16:31:00,null,Saturday,1488472260,DCNF,185,null,,,,null
+9984018,3/2/17 4:37 PM,2017-03-02 16:37:00,null,Saturday,1488472620,DCNF,186,null,,,,null
+9984017,3/2/17 4:37 PM,2017-03-02 16:37:00,null,Saturday,1488472620,DCNF,187,null,,,,null
+9984016,3/2/17 6:42 PM,2017-03-02 18:42:00,null,Saturday,1488480120,DCNF,188,null,,,,null
+9984015,3/2/17 6:47 PM,2017-03-02 18:47:00,null,Saturday,1488480420,DCNF,189,null,,,,null
+9984014,3/2/17 6:49 PM,2017-03-02 18:49:00,null,Saturday,1488480540,DCNF,190,null,,,,null
+9984013,3/2/17 6:50 PM,2017-03-02 18:50:00,null,Saturday,1488480600,DCNF,191,null,,,,null
+9984012,3/2/17 6:51 PM,2017-03-02 18:51:00,null,Saturday,1488480660,DCNF,192,null,,,,null
+9984011,3/2/17 7:05 PM,2017-03-02 19:05:00,null,Saturday,1488481500,DCNF,193,null,,,,null
+9984010,3/2/17 7:07 PM,2017-03-02 19:07:00,null,Saturday,1488481620,DCNF,194,null,,,,null
+9984009,3/2/17 7:13 PM,2017-03-02 19:13:00,null,Saturday,1488481980,DCNF,195,null,,,,null
+9984008,3/5/17 7:54 AM,2017-03-05 07:54:00,null,Saturday,1488700440,DCNF,196,null,,,,null
+9984007,3/5/17 7:54 AM,2017-03-05 07:54:00,null,Saturday,1488700440,DCNF,197,null,,,,null
+9984006,3/5/17 7:55 AM,2017-03-05 07:55:00,null,Saturday,1488700500,DCNF,198,null,,,,null
+9984005,3/5/17 7:55 AM,2017-03-05 07:55:00,null,Saturday,1488700500,DCNF,199,null,,,,null
+9984004,3/5/17 7:55 AM,2017-03-05 07:55:00,null,Saturday,1488700500,DCNF,200,null,,,,null
+9984003,3/5/17 7:57 AM,2017-03-05 07:57:00,null,Saturday,1488700620,DCNF,201,null,,,,null
+9984002,3/5/17 7:57 AM,2017-03-05 07:57:00,null,Saturday,1488700620,DCNF,202,null,,,,null
+9984001,3/5/17 8:01 AM,2017-03-05 08:01:00,null,Saturday,1488700860,DCNF,203,null,,,,null
+9984000,3/5/17 8:57 AM,2017-03-05 08:57:49,null,Saturday,1488704269,DCNF,204,null,,,,null
+9983999,3/5/17 8:59 AM,2017-03-05 08:59:00,null,Saturday,1488704340,DCNF,205,null,,,,null
+9983998,3/5/17 8:59 AM,2017-03-05 08:59:00,null,Saturday,1488704340,DCNF,206,null,,,,null
+9983997,3/5/17 9:02 AM,2017-03-05 09:02:00,null,Saturday,1488704520,DCNF,207,null,,,,null
+9983996,3/5/17 9:02 AM,2017-03-05 09:02:00,null,Saturday,1488704520,DCNF,208,null,,,,null
+9983995,3/5/17 9:04 AM,2017-03-05 09:04:00,null,Saturday,1488704640,DCNF,209,null,,,,null
+9983994,3/5/17 9:04 AM,2017-03-05 09:04:00,null,Saturday,1488704640,DCNF,210,null,,,,null
+9983993,3/5/17 9:07 AM,2017-03-05 09:07:00,null,Saturday,1488704820,DCNF,211,null,,,,null
+9983992,3/5/17 9:21 AM,2017-03-05 09:21:00,null,Saturday,1488705660,DCNF,212,null,,,,null
+9983991,3/5/17 9:22 AM,2017-03-05 09:22:00,null,Saturday,1488705720,DCNF,213,null,,,,null
+9983990,3/5/17 9:44 AM,2017-03-05 09:44:00,null,Saturday,1488707040,DCNF,214,null,,,,null
+9983989,3/5/17 9:45 AM,2017-03-05 09:45:00,null,Saturday,1488707100,DCNF,215,null,,,,null
+9983988,3/5/17 2:01 PM,2017-03-05 14:01:17,null,Saturday,1488722477,DCNF,216,null,,,,null
+9983987,3/5/17 3:28 PM,2017-03-05 15:28:55,null,Saturday,1488727735,DCNF,217,null,,,,null
+9983986,3/6/17 8:21 PM,2017-03-06 20:21:00,null,Saturday,1488831660,DCNF,218,null,,,,null
+9983985,3/10/17 6:22 PM,2017-03-10 18:22:49,null,Saturday,1489170169,DCNF,219,null,,,,null
+9983984,3/12/17 8:18 PM,2017-03-12 20:18:52,null,Saturday,1489349932,DCNF,220,null,,,,null
+9983983,3/12/17 8:20 PM,2017-03-12 20:20:13,null,Saturday,1489350013,DCNF,221,null,,,,null
+9983982,3/16/17 6:04 AM,2017-03-16 06:04:47,null,Saturday,1489644287,DCNF,222,null,,,,null
+9983981,3/16/17 6:07 AM,2017-03-16 06:07:21,null,Saturday,1489644441,DCNF,223,null,,,,null
+9983980,3/16/17 8:11 PM,2017-03-16 20:11:17,null,Saturday,1489695077,DCNF,224,null,,,,null
+9983979,3/16/17 8:17 PM,2017-03-16 20:17:18,null,Saturday,1489695438,DCNF,225,null,,,,null
+9983978,3/17/17 7:44 PM,2017-03-17 19:44:00,null,Saturday,1489779840,DCNF,226,null,,,,null
+9983977,3/17/17 8:16 PM,2017-03-17 20:16:14,null,Saturday,1489781774,DCNF,227,null,,,,null
+9983976,3/19/17 4:26 PM,2017-03-19 16:26:00,null,Saturday,1489940760,DCNF,228,null,,,,null
+9983975,3/19/17 11:00 PM,2017-03-19 23:00:13,null,Saturday,1489964413,DCNF,229,null,,,,null
+9983974,3/20/17 6:21 AM,2017-03-20 06:21:40,null,Saturday,1489990900,DCNF,230,null,,,,null
+9983973,3/20/17 6:29 AM,2017-03-20 06:29:12,null,Saturday,1489991352,DCNF,231,null,,,,null
+9983972,3/20/17 9:39 AM,2017-03-20 09:39:36,null,Saturday,1490002776,DCNF,232,null,,,,null
+9983971,3/20/17 4:24 PM,2017-03-20 16:24:24,null,Saturday,1490027064,DCNF,233,null,,,,null
+9983970,3/20/17 4:34 PM,2017-03-20 16:34:01,null,Saturday,1490027641,DCNF,234,null,,,,null
+9983969,3/20/17 4:43 PM,2017-03-20 16:43:14,null,Saturday,1490028194,DCNF,235,null,,,,null
+9983968,3/21/17 11:41 AM,2017-03-21 11:41:10,null,Saturday,1490096470,DCNF,236,null,,,,null
+9983967,3/21/17 11:43 AM,2017-03-21 11:43:25,null,Saturday,1490096605,DCNF,237,null,,,,null
+9983966,3/21/17 11:56 AM,2017-03-21 11:56:09,null,Saturday,1490097369,DCNF,238,null,,,,null
+9983965,3/22/17 4:37 PM,2017-03-22 16:37:03,null,Saturday,1490200623,DCNF,239,null,,,,null
+9983964,3/22/17 7:59 PM,2017-03-22 19:59:56,null,Saturday,1490212796,DCNF,240,null,,,,null
+9983963,3/23/17 7:41 AM,2017-03-23 07:41:45,null,Saturday,1490254905,DCNF,241,null,,,,null
+9983962,3/23/17 7:42 AM,2017-03-23 07:42:33,null,Saturday,1490254953,DCNF,242,null,,,,null
+9983961,3/23/17 7:42 AM,2017-03-23 07:42:55,null,Saturday,1490254975,DCNF,243,null,,,,null
+9983960,3/23/17 7:50 AM,2017-03-23 07:50:35,null,Saturday,1490255435,DCNF,244,null,,,,null
+9983959,3/23/17 6:49 PM,2017-03-23 18:49:25,null,Saturday,1490294965,DCNF,245,null,,,,null
+9983958,3/23/17 8:52 PM,2017-03-23 20:52:08,null,Saturday,1490302328,DCNF,246,null,,,,null
+9983957,3/23/17 9:24 PM,2017-03-23 21:24:58,null,Saturday,1490304298,DCNF,247,null,,,,null
+9983956,3/24/17 3:42 PM,2017-03-24 15:42:46,null,Saturday,1490370166,DCNF,248,null,,,,null
+9983955,3/24/17 7:31 PM,2017-03-24 19:31:43,null,Saturday,1490383903,DCNF,249,null,,,,null
+9983954,3/24/17 7:44 PM,2017-03-24 19:44:00,null,Saturday,1490384640,DCNF,250,null,,,,null
+9983953,3/24/17 7:44 PM,2017-03-24 19:44:00,null,Saturday,1490384640,DCNF,251,null,,,,null
+9983952,3/24/17 7:44 PM,2017-03-24 19:44:00,null,Saturday,1490384640,DCNF,252,null,,,,null
+9983951,3/24/17 7:44 PM,2017-03-24 19:44:31,null,Saturday,1490384671,DCNF,253,null,,,,null
+9983950,3/24/17 7:45 PM,2017-03-24 19:45:38,null,Saturday,1490384738,DCNF,254,null,,,,null
+9983949,3/24/17 7:46 PM,2017-03-24 19:46:00,null,Saturday,1490384760,DCNF,255,null,,,,null
+9983948,3/24/17 7:47 PM,2017-03-24 19:47:00,null,Saturday,1490384820,DCNF,256,null,,,,null
+9983947,3/24/17 7:47 PM,2017-03-24 19:47:54,null,Saturday,1490384874,DCNF,257,null,,,,null
+9983946,3/24/17 7:48 PM,2017-03-24 19:48:20,null,Saturday,1490384900,DCNF,258,null,,,,null
+9983945,3/24/17 7:48 PM,2017-03-24 19:48:26,null,Saturday,1490384906,DCNF,259,null,,,,null
+9983944,3/28/17 6:39 PM,2017-03-28 18:39:00,null,Saturday,1490726340,DCNF,260,null,,,,null
+9983943,3/29/17 10:17 AM,2017-03-29 10:17:45,null,Saturday,1490782665,DCNF,261,null,,,,null
+9983942,3/29/17 6:04 PM,2017-03-29 18:04:25,null,Saturday,1490810665,DCNF,262,null,,,,null
+9983941,3/29/17 6:24 PM,2017-03-29 18:24:34,null,Saturday,1490811874,DCNF,263,null,,,,null
+9983940,3/30/17 9:31 AM,2017-03-30 09:31:00,null,Saturday,1490866260,DCNF,264,null,,,,null
+9983939,3/30/17 10:14 AM,2017-03-30 10:14:40,null,Saturday,1490868880,DCNF,265,null,,,,null
+9983938,3/30/17 1:21 PM,2017-03-30 13:21:07,null,Saturday,1490880067,DCNF,266,null,,,,null
+9983937,3/30/17 1:25 PM,2017-03-30 13:25:52,null,Saturday,1490880352,DCNF,267,null,,,,null
+9983936,3/30/17 1:35 PM,2017-03-30 13:35:56,null,Saturday,1490880956,DCNF,268,null,,,,null
+9983935,3/30/17 1:40 PM,2017-03-30 13:40:49,null,Saturday,1490881249,DCNF,269,null,,,,null
+9983934,4/5/17 7:40 AM,2017-04-05 07:40:45,null,Saturday,1491378045,DCNF,270,null,,,,null
+9983933,4/5/17 9:47 PM,2017-04-05 21:47:00,null,Saturday,1491428820,DCNF,271,null,,,,null
+9983932,4/6/17 7:08 AM,2017-04-06 07:08:00,null,Saturday,1491462480,DCNF,272,null,,,,null
+9983931,4/6/17 9:25 AM,2017-04-06 09:25:00,null,Saturday,1491470700,DCNF,273,null,,,,null
+9983930,4/6/17 9:48 AM,2017-04-06 09:48:00,null,Saturday,1491472080,DCNF,274,null,,,,null
+9983929,4/6/17 9:51 AM,2017-04-06 09:51:00,null,Saturday,1491472260,DCNF,275,null,,,,null
+9983928,4/6/17 9:53 AM,2017-04-06 09:53:00,null,Saturday,1491472380,DCNF,276,null,,,,null
+9983927,4/6/17 9:54 AM,2017-04-06 09:54:00,null,Saturday,1491472440,DCNF,277,null,,,,null
+9983926,4/6/17 9:55 AM,2017-04-06 09:55:00,null,Saturday,1491472500,DCNF,278,null,,,,null
+9983925,4/6/17 9:55 AM,2017-04-06 09:55:00,null,Saturday,1491472500,DCNF,279,null,,,,null
+9983924,4/6/17 9:55 AM,2017-04-06 09:55:55,null,Saturday,1491472555,DCNF,280,null,,,,null
+9983923,4/6/17 9:56 AM,2017-04-06 09:56:00,null,Saturday,1491472560,DCNF,281,null,,,,null
+9983922,4/6/17 10:47 AM,2017-04-06 10:47:00,null,Saturday,1491475620,DCNF,282,null,,,,null
+9983921,4/6/17 11:12 AM,2017-04-06 11:12:00,null,Saturday,1491477120,DCNF,283,null,,,,null
+9983920,4/6/17 11:20 AM,2017-04-06 11:20:00,null,Saturday,1491477600,DCNF,284,null,,,,null
+9983919,4/6/17 11:21 AM,2017-04-06 11:21:00,null,Saturday,1491477660,DCNF,285,null,,,,null
+9983918,4/6/17 11:29 AM,2017-04-06 11:29:00,null,Saturday,1491478140,DCNF,286,null,,,,null
+9983917,4/6/17 12:57 PM,2017-04-06 12:57:00,null,Saturday,1491483420,DCNF,287,null,,,,null
+9983916,4/6/17 2:39 PM,2017-04-06 14:39:00,null,Saturday,1491489540,DCNF,288,null,,,,null
+9983915,4/6/17 2:39 PM,2017-04-06 14:39:00,null,Saturday,1491489540,DCNF,289,null,,,,null
+9983914,4/6/17 3:32 PM,2017-04-06 15:32:00,null,Saturday,1491492720,DCNF,290,null,,,,null
+9983913,4/6/17 3:35 PM,2017-04-06 15:35:00,null,Saturday,1491492900,DCNF,291,null,,,,null
+9983912,4/6/17 4:26 PM,2017-04-06 16:26:00,null,Saturday,1491495960,DCNF,292,null,,,,null
+9983911,4/6/17 4:56 PM,2017-04-06 16:56:00,null,Saturday,1491497760,DCNF,293,null,,,,null
+9983910,4/6/17 7:52 PM,2017-04-06 19:52:00,null,Saturday,1491508320,DCNF,294,null,,,,null
+9983909,4/6/17 8:06 PM,2017-04-06 20:06:00,null,Saturday,1491509160,DCNF,295,null,,,,null
+9983908,4/9/17 3:47 PM,2017-04-09 15:47:03,null,Saturday,1491752823,DCNF,296,null,,,,null
+9983907,4/10/17 8:16 AM,2017-04-10 08:16:28,null,Saturday,1491812188,DCNF,297,null,,,,null
+9983906,4/10/17 8:30 AM,2017-04-10 08:30:22,null,Saturday,1491813022,DCNF,298,null,,,,null
+9983905,4/10/17 8:30 AM,2017-04-10 08:30:57,null,Saturday,1491813057,DCNF,299,null,,,,null
+9983904,4/10/17 8:31 AM,2017-04-10 08:31:30,null,Saturday,1491813090,DCNF,300,null,,,,null
+9983903,4/10/17 8:52 AM,2017-04-10 08:52:47,null,Saturday,1491814367,DCNF,301,null,,,,null
+9983902,4/10/17 7:56 PM,2017-04-10 19:56:54,null,Saturday,1491854214,DCNF,302,null,,,,null
+9983901,4/13/17 6:11 PM,2017-04-13 18:11:44,null,Saturday,1492107104,DCNF,303,null,,,,null
+9983900,4/13/17 6:12 PM,2017-04-13 18:12:14,null,Saturday,1492107134,DCNF,304,null,,,,null
+9983899,4/13/17 7:43 PM,2017-04-13 19:43:59,null,Saturday,1492112639,DCNF,305,null,,,,null
+9983898,4/14/17 9:41 AM,2017-04-14 09:41:42,null,Saturday,1492162902,DCNF,306,null,,,,null
+9983897,4/16/17 7:16 AM,2017-04-16 07:16:00,null,Saturday,1492326960,DCNF,307,null,,,,null
+9983896,4/16/17 7:17 AM,2017-04-16 07:17:00,null,Saturday,1492327020,DCNF,308,null,,,,null
+9983895,4/16/17 7:18 AM,2017-04-16 07:18:00,null,Saturday,1492327080,DCNF,309,null,,,,null
+9983894,4/18/17 10:57 AM,2017-04-18 10:57:44,null,Saturday,1492513064,DCNF,310,null,,,,null
+9983893,4/22/17 10:53 AM,2017-04-22 10:53:31,null,Saturday,1492858411,DCNF,311,null,,,,null
+9983892,4/22/17 11:26 AM,2017-04-22 11:26:10,null,Saturday,1492860370,DCNF,312,null,,,,null
+9983891,4/25/17 7:48 AM,2017-04-25 07:48:00,null,Saturday,1493106480,DCNF,313,null,,,,null
+9983890,4/25/17 4:48 PM,2017-04-25 16:48:00,null,Saturday,1493138880,DCNF,314,null,,,,null
+9983889,4/25/17 4:52 PM,2017-04-25 16:52:00,null,Saturday,1493139120,DCNF,315,null,,,,null
+9983888,4/25/17 4:53 PM,2017-04-25 16:53:00,null,Saturday,1493139180,DCNF,316,null,,,,null
+9983887,4/25/17 5:03 PM,2017-04-25 17:03:00,null,Saturday,1493139780,DCNF,317,null,,,,null
+9983886,4/25/17 5:03 PM,2017-04-25 17:03:00,null,Saturday,1493139780,DCNF,318,null,,,,null
+9983885,4/25/17 7:33 PM,2017-04-25 19:33:36,null,Saturday,1493148816,DCNF,319,null,,,,null
+9983884,4/26/17 9:51 AM,2017-04-26 09:51:17,null,Saturday,1493200277,DCNF,320,null,,,,null
+9983883,4/26/17 9:52 AM,2017-04-26 09:52:36,null,Saturday,1493200356,DCNF,321,null,,,,null
+9983882,4/26/17 10:53 AM,2017-04-26 10:53:09,null,Saturday,1493203989,DCNF,322,null,,,,null
+9983881,4/26/17 11:33 AM,2017-04-26 11:33:25,null,Saturday,1493206405,DCNF,323,null,,,,null
+9983880,4/27/17 8:50 AM,2017-04-27 08:50:08,null,Saturday,1493283008,DCNF,324,null,,,,null
+9983879,4/27/17 11:56 AM,2017-04-27 11:56:16,null,Saturday,1493294176,DCNF,325,null,,,,null
+9983878,4/27/17 1:20 PM,2017-04-27 13:20:57,null,Saturday,1493299257,DCNF,326,null,,,,null
+9983877,4/27/17 1:21 PM,2017-04-27 13:21:40,null,Saturday,1493299300,DCNF,327,null,,,,null
+9983876,4/27/17 1:24 PM,2017-04-27 13:24:02,null,Saturday,1493299442,DCNF,328,null,,,,null
+9983875,4/27/17 1:24 PM,2017-04-27 13:24:14,null,Saturday,1493299454,DCNF,329,null,,,,null
+9983874,4/27/17 1:24 PM,2017-04-27 13:24:28,null,Saturday,1493299468,DCNF,330,null,,,,null
+9983873,4/27/17 1:27 PM,2017-04-27 13:27:49,null,Saturday,1493299669,DCNF,331,null,,,,null
+9983872,4/27/17 1:33 PM,2017-04-27 13:33:33,null,Saturday,1493300013,DCNF,332,null,,,,null
+9983871,4/27/17 1:36 PM,2017-04-27 13:36:28,null,Saturday,1493300188,DCNF,333,null,,,,null
+9983870,4/27/17 4:07 PM,2017-04-27 16:07:27,null,Saturday,1493309247,DCNF,334,null,,,,null
+9983869,4/27/17 4:58 PM,2017-04-27 16:58:45,null,Saturday,1493312325,DCNF,335,null,,,,null
+9983868,4/27/17 10:10 PM,2017-04-27 22:10:38,null,Saturday,1493331038,DCNF,336,null,,,,null
+9983867,5/4/17 7:40 AM,2017-05-04 07:40:45,null,Saturday,1493883645,DCNF,337,null,,,,null
+9983866,5/4/17 9:38 AM,2017-05-04 09:38:30,null,Saturday,1493890710,DCNF,338,null,,,,null
+9983865,5/5/17 9:57 AM,2017-05-05 09:57:00,null,Saturday,1493978220,DCNF,339,null,,,,null
+9983864,5/5/17 12:10 PM,2017-05-05 12:10:00,null,Saturday,1493986200,DCNF,340,null,,,,null
+9983863,5/5/17 12:10 PM,2017-05-05 12:10:00,null,Saturday,1493986200,DCNF,341,null,,,,null
+9983862,5/5/17 12:21 PM,2017-05-05 12:21:00,null,Saturday,1493986860,DCNF,342,null,,,,null
+9983861,5/5/17 1:05 PM,2017-05-05 13:05:00,null,Saturday,1493989500,DCNF,343,null,,,,null
+9983860,5/5/17 2:39 PM,2017-05-05 14:39:00,null,Saturday,1493995140,DCNF,344,null,,,,null
+9983859,5/5/17 3:41 PM,2017-05-05 15:41:00,null,Saturday,1493998860,DCNF,345,null,,,,null
+9983858,5/5/17 3:43 PM,2017-05-05 15:43:00,null,Saturday,1493998980,DCNF,346,null,,,,null
+9983857,5/5/17 4:57 PM,2017-05-05 16:57:00,null,Saturday,1494003420,DCNF,347,null,,,,null
+9983856,5/5/17 5:33 PM,2017-05-05 17:33:00,null,Saturday,1494005580,DCNF,348,null,,,,null
+9983855,5/5/17 5:33 PM,2017-05-05 17:33:00,null,Saturday,1494005580,DCNF,349,null,,,,null
+9983854,5/5/17 7:21 PM,2017-05-05 19:21:00,null,Saturday,1494012060,DCNF,350,null,,,,null
+9983853,5/5/17 7:58 PM,2017-05-05 19:58:00,null,Saturday,1494014280,DCNF,351,null,,,,null
+9983852,5/5/17 9:08 PM,2017-05-05 21:08:00,null,Saturday,1494018480,DCNF,352,null,,,,null
+9983851,5/5/17 9:12 PM,2017-05-05 21:12:00,null,Saturday,1494018720,DCNF,353,null,,,,null
+9983850,5/5/17 9:16 PM,2017-05-05 21:16:00,null,Saturday,1494018960,DCNF,354,null,,,,null
+9983849,5/5/17 9:24 PM,2017-05-05 21:24:00,null,Saturday,1494019440,DCNF,355,null,,,,null
+9983848,5/5/17 9:24 PM,2017-05-05 21:24:00,null,Saturday,1494019440,DCNF,356,null,,,,null
+9983847,5/5/17 9:24 PM,2017-05-05 21:24:00,null,Saturday,1494019440,DCNF,357,null,,,,null
+9983846,5/5/17 9:25 PM,2017-05-05 21:25:00,null,Saturday,1494019500,DCNF,358,null,,,,null
+9983845,5/5/17 9:25 PM,2017-05-05 21:25:29,null,Saturday,1494019529,DCNF,359,null,,,,null
+9983844,5/5/17 9:26 PM,2017-05-05 21:26:00,null,Saturday,1494019560,DCNF,360,null,,,,null
+9983843,5/5/17 9:27 PM,2017-05-05 21:27:00,null,Saturday,1494019620,DCNF,361,null,,,,null
+9983842,5/5/17 9:27 PM,2017-05-05 21:27:00,null,Saturday,1494019620,DCNF,362,null,,,,null
+9983841,5/5/17 9:27 PM,2017-05-05 21:27:00,null,Saturday,1494019620,DCNF,363,null,,,,null
+9983840,5/5/17 9:28 PM,2017-05-05 21:28:48,null,Saturday,1494019728,DCNF,364,null,,,,null
+9983839,5/5/17 9:33 PM,2017-05-05 21:33:00,null,Saturday,1494019980,DCNF,365,null,,,,null
+9983838,5/5/17 9:33 PM,2017-05-05 21:33:14,null,Saturday,1494019994,DCNF,366,null,,,,null
+9983837,5/5/17 9:39 PM,2017-05-05 21:39:00,null,Saturday,1494020340,DCNF,367,null,,,,null
+9983836,5/5/17 9:39 PM,2017-05-05 21:39:00,null,Saturday,1494020340,DCNF,368,null,,,,null
+9983835,5/7/17 6:53 PM,2017-05-07 18:53:00,null,Saturday,1494183180,DCNF,369,null,,,,null
+9983834,5/7/17 7:38 PM,2017-05-07 19:38:00,null,Saturday,1494185880,DCNF,370,null,,,,null
+9983833,5/7/17 7:43 PM,2017-05-07 19:43:00,null,Saturday,1494186180,DCNF,371,null,,,,null
+9983832,5/8/17 7:25 AM,2017-05-08 07:25:00,null,Saturday,1494228300,DCNF,372,null,,,,null
+9983831,5/8/17 7:26 AM,2017-05-08 07:26:00,null,Saturday,1494228360,DCNF,373,null,,,,null
+9983830,5/8/17 7:27 AM,2017-05-08 07:27:00,null,Saturday,1494228420,DCNF,374,null,,,,null
+9983829,5/8/17 7:33 AM,2017-05-08 07:33:00,null,Saturday,1494228780,DCNF,375,null,,,,null
+9983828,5/8/17 7:34 AM,2017-05-08 07:34:00,null,Saturday,1494228840,DCNF,376,null,,,,null
+9983827,5/8/17 7:36 AM,2017-05-08 07:36:00,null,Saturday,1494228960,DCNF,377,null,,,,null
+9983826,5/8/17 7:41 AM,2017-05-08 07:41:00,null,Saturday,1494229260,DCNF,378,null,,,,null
+9983825,5/8/17 7:43 AM,2017-05-08 07:43:00,null,Saturday,1494229380,DCNF,379,null,,,,null
+9983824,5/8/17 7:44 AM,2017-05-08 07:44:00,null,Saturday,1494229440,DCNF,380,null,,,,null
+9983823,5/8/17 7:46 AM,2017-05-08 07:46:00,null,Saturday,1494229560,DCNF,381,null,,,,null
+9983822,5/8/17 7:47 AM,2017-05-08 07:47:00,null,Saturday,1494229620,DCNF,382,null,,,,null
+9983821,5/8/17 7:48 AM,2017-05-08 07:48:00,null,Saturday,1494229680,DCNF,383,null,,,,null
+9983820,5/8/17 7:53 AM,2017-05-08 07:53:00,null,Saturday,1494229980,DCNF,384,null,,,,null
+9983819,5/8/17 7:54 AM,2017-05-08 07:54:00,null,Saturday,1494230040,DCNF,385,null,,,,null
+9983818,5/8/17 7:55 AM,2017-05-08 07:55:00,null,Saturday,1494230100,DCNF,386,null,,,,null
+9983817,5/8/17 8:25 AM,2017-05-08 08:25:00,null,Saturday,1494231900,DCNF,387,null,,,,null
+9983816,5/8/17 2:58 PM,2017-05-08 14:58:00,null,Saturday,1494255480,DCNF,388,null,,,,null
+9983815,5/8/17 2:59 PM,2017-05-08 14:59:00,null,Saturday,1494255540,DCNF,389,null,,,,null
+9983814,5/8/17 2:59 PM,2017-05-08 14:59:00,null,Saturday,1494255540,DCNF,390,null,,,,null
+9983813,5/8/17 2:59 PM,2017-05-08 14:59:00,null,Saturday,1494255540,DCNF,391,null,,,,null
+9983812,5/8/17 3:00 PM,2017-05-08 15:00:00,null,Saturday,1494255600,DCNF,392,null,,,,null
+9983811,5/8/17 3:01 PM,2017-05-08 15:01:00,null,Saturday,1494255660,DCNF,393,null,,,,null
+9983810,5/8/17 3:02 PM,2017-05-08 15:02:00,null,Saturday,1494255720,DCNF,394,null,,,,null
+9983809,5/8/17 3:17 PM,2017-05-08 15:17:00,null,Saturday,1494256620,DCNF,395,null,,,,null
+9983808,5/8/17 4:16 PM,2017-05-08 16:16:00,null,Saturday,1494260160,DCNF,396,null,,,,null
+9983807,5/8/17 4:30 PM,2017-05-08 16:30:00,null,Saturday,1494261000,DCNF,397,null,,,,null
+9983806,5/8/17 5:30 PM,2017-05-08 17:30:00,null,Saturday,1494264600,DCNF,398,null,,,,null
+9983805,5/8/17 7:02 PM,2017-05-08 19:02:00,null,Saturday,1494270120,DCNF,399,null,,,,null
+9983804,5/8/17 7:03 PM,2017-05-08 19:03:00,null,Saturday,1494270180,DCNF,400,null,,,,null
+9983803,5/8/17 7:16 PM,2017-05-08 19:16:00,null,Saturday,1494270960,DCNF,401,null,,,,null
+9983802,5/8/17 7:17 PM,2017-05-08 19:17:00,null,Saturday,1494271020,DCNF,402,null,,,,null
+9983801,5/8/17 7:19 PM,2017-05-08 19:19:00,null,Saturday,1494271140,DCNF,403,null,,,,null
+9983800,5/8/17 7:21 PM,2017-05-08 19:21:00,null,Saturday,1494271260,DCNF,404,null,,,,null
+9983799,5/8/17 7:23 PM,2017-05-08 19:23:00,null,Saturday,1494271380,DCNF,405,null,,,,null
+9983798,5/8/17 7:25 PM,2017-05-08 19:25:00,null,Saturday,1494271500,DCNF,406,null,,,,null
+9983797,5/8/17 7:32 PM,2017-05-08 19:32:00,null,Saturday,1494271920,DCNF,407,null,,,,null
+9983796,5/8/17 8:08 PM,2017-05-08 20:08:00,null,Saturday,1494274080,DCNF,408,null,,,,null
+9983795,5/8/17 8:11 PM,2017-05-08 20:11:00,null,Saturday,1494274260,DCNF,409,null,,,,null
+9983794,5/8/17 8:11 PM,2017-05-08 20:11:00,null,Saturday,1494274260,DCNF,410,null,,,,null
+9983793,5/8/17 8:14 PM,2017-05-08 20:14:00,null,Saturday,1494274440,DCNF,411,null,,,,null
+9983792,5/8/17 8:17 PM,2017-05-08 20:17:00,null,Saturday,1494274620,DCNF,412,null,,,,null
+9983791,5/8/17 8:19 PM,2017-05-08 20:19:00,null,Saturday,1494274740,DCNF,413,null,,,,null
+9983790,5/8/17 8:21 PM,2017-05-08 20:21:00,null,Saturday,1494274860,DCNF,414,null,,,,null
+9983789,5/8/17 8:21 PM,2017-05-08 20:21:00,null,Saturday,1494274860,DCNF,415,null,,,,null
+9983788,5/8/17 8:25 PM,2017-05-08 20:25:00,null,Saturday,1494275100,DCNF,416,null,,,,null
+9983787,5/8/17 8:25 PM,2017-05-08 20:25:00,null,Saturday,1494275100,DCNF,417,null,,,,null
+9983786,5/8/17 8:26 PM,2017-05-08 20:26:00,null,Saturday,1494275160,DCNF,418,null,,,,null
+9983785,5/8/17 8:26 PM,2017-05-08 20:26:00,null,Saturday,1494275160,DCNF,419,null,,,,null
+9983784,5/8/17 8:26 PM,2017-05-08 20:26:00,null,Saturday,1494275160,DCNF,420,null,,,,null
+9983783,5/8/17 8:27 PM,2017-05-08 20:27:00,null,Saturday,1494275220,DCNF,421,null,,,,null
+9983782,5/8/17 8:28 PM,2017-05-08 20:28:00,null,Saturday,1494275280,DCNF,422,null,,,,null
+9983781,5/8/17 8:28 PM,2017-05-08 20:28:00,null,Saturday,1494275280,DCNF,423,null,,,,null
+9983780,5/8/17 8:28 PM,2017-05-08 20:28:00,null,Saturday,1494275280,DCNF,424,null,,,,null
+9983779,5/8/17 8:28 PM,2017-05-08 20:28:00,null,Saturday,1494275280,DCNF,425,null,,,,null
+9983778,5/8/17 8:30 PM,2017-05-08 20:30:00,null,Saturday,1494275400,DCNF,426,null,,,,null
+9983777,5/8/17 8:30 PM,2017-05-08 20:30:00,null,Saturday,1494275400,DCNF,427,null,,,,null
+9983776,5/8/17 8:32 PM,2017-05-08 20:32:00,null,Saturday,1494275520,DCNF,428,null,,,,null
+9983775,5/8/17 8:33 PM,2017-05-08 20:33:00,null,Saturday,1494275580,DCNF,429,null,,,,null
+9983774,5/8/17 8:33 PM,2017-05-08 20:33:00,null,Saturday,1494275580,DCNF,430,null,,,,null
+9983773,5/8/17 8:35 PM,2017-05-08 20:35:00,null,Saturday,1494275700,DCNF,431,null,,,,null
+9983772,5/8/17 8:36 PM,2017-05-08 20:36:00,null,Saturday,1494275760,DCNF,432,null,,,,null
+9983771,5/9/17 7:13 AM,2017-05-09 07:13:00,null,Saturday,1494313980,DCNF,433,null,,,,null
+9983770,5/9/17 7:14 AM,2017-05-09 07:14:00,null,Saturday,1494314040,DCNF,434,null,,,,null
+9983769,5/9/17 7:18 AM,2017-05-09 07:18:00,null,Saturday,1494314280,DCNF,435,null,,,,null
+9983768,5/9/17 7:18 AM,2017-05-09 07:18:36,null,Saturday,1494314316,DCNF,436,null,,,,null
+9983767,5/9/17 7:35 AM,2017-05-09 07:35:00,null,Saturday,1494315300,DCNF,437,null,,,,null
+9983766,5/9/17 7:43 AM,2017-05-09 07:43:00,null,Saturday,1494315780,DCNF,438,null,,,,null
+9983765,5/9/17 7:46 AM,2017-05-09 07:46:00,null,Saturday,1494315960,DCNF,439,null,,,,null
+9983764,5/9/17 7:48 AM,2017-05-09 07:48:00,null,Saturday,1494316080,DCNF,440,null,,,,null
+9983763,5/9/17 7:53 AM,2017-05-09 07:53:00,null,Saturday,1494316380,DCNF,441,null,,,,null
+9983762,5/9/17 8:00 AM,2017-05-09 08:00:00,null,Saturday,1494316800,DCNF,442,null,,,,null
+9983761,5/9/17 8:05 AM,2017-05-09 08:05:00,null,Saturday,1494317100,DCNF,443,null,,,,null
+9983760,5/9/17 8:22 AM,2017-05-09 08:22:00,null,Saturday,1494318120,DCNF,444,null,,,,null
+9983759,5/9/17 8:36 AM,2017-05-09 08:36:00,null,Saturday,1494318960,DCNF,445,null,,,,null
+9983758,5/9/17 8:37 AM,2017-05-09 08:37:00,null,Saturday,1494319020,DCNF,446,null,,,,null
+9983757,5/9/17 8:38 AM,2017-05-09 08:38:00,null,Saturday,1494319080,DCNF,447,null,,,,null
+9983756,5/9/17 8:45 AM,2017-05-09 08:45:00,null,Saturday,1494319500,DCNF,448,null,,,,null
+9983755,5/9/17 9:16 AM,2017-05-09 09:16:00,null,Saturday,1494321360,DCNF,449,null,,,,null
+9983754,5/9/17 3:04 PM,2017-05-09 15:04:00,null,Saturday,1494342240,DCNF,450,null,,,,null
+9983753,5/9/17 4:35 PM,2017-05-09 16:35:00,null,Saturday,1494347700,DCNF,451,null,,,,null
+9983752,5/9/17 4:39 PM,2017-05-09 16:39:00,null,Saturday,1494347940,DCNF,452,null,,,,null
+9983751,5/9/17 4:47 PM,2017-05-09 16:47:00,null,Saturday,1494348420,DCNF,453,null,,,,null
+9983750,5/9/17 6:45 PM,2017-05-09 18:45:00,null,Saturday,1494355500,DCNF,454,null,,,,null
+9983749,5/9/17 6:45 PM,2017-05-09 18:45:00,null,Saturday,1494355500,DCNF,455,null,,,,null
+9983748,5/9/17 6:47 PM,2017-05-09 18:47:00,null,Saturday,1494355620,DCNF,456,null,,,,null
+9983747,5/9/17 6:47 PM,2017-05-09 18:47:00,null,Saturday,1494355620,DCNF,457,null,,,,null
+9983746,5/9/17 6:48 PM,2017-05-09 18:48:00,null,Saturday,1494355680,DCNF,458,null,,,,null
+9983745,5/9/17 6:48 PM,2017-05-09 18:48:00,null,Saturday,1494355680,DCNF,459,null,,,,null
+9983744,5/9/17 6:48 PM,2017-05-09 18:48:00,null,Saturday,1494355680,DCNF,460,null,,,,null
+9983743,5/9/17 6:48 PM,2017-05-09 18:48:00,null,Saturday,1494355680,DCNF,461,null,,,,null
+9983742,5/9/17 6:48 PM,2017-05-09 18:48:00,null,Saturday,1494355680,DCNF,462,null,,,,null
+9983741,5/9/17 6:49 PM,2017-05-09 18:49:00,null,Saturday,1494355740,DCNF,463,null,,,,null
+9983740,5/9/17 6:50 PM,2017-05-09 18:50:00,null,Saturday,1494355800,DCNF,464,null,,,,null
+9983739,5/9/17 6:51 PM,2017-05-09 18:51:00,null,Saturday,1494355860,DCNF,465,null,,,,null
+9983738,5/9/17 6:51 PM,2017-05-09 18:51:00,null,Saturday,1494355860,DCNF,466,null,,,,null
+9983737,5/9/17 8:00 PM,2017-05-09 20:00:00,null,Saturday,1494360000,DCNF,467,null,,,,null
+9983736,5/9/17 8:14 PM,2017-05-09 20:14:00,null,Saturday,1494360840,DCNF,468,null,,,,null
+9983735,5/9/17 8:56 PM,2017-05-09 20:56:00,null,Saturday,1494363360,DCNF,469,null,,,,null
+9983734,5/9/17 9:36 PM,2017-05-09 21:36:00,null,Saturday,1494365760,DCNF,470,null,,,,null
+9983733,5/9/17 9:38 PM,2017-05-09 21:38:00,null,Saturday,1494365880,DCNF,471,null,,,,null
+9983732,5/9/17 10:10 PM,2017-05-09 22:10:00,null,Saturday,1494367800,DCNF,472,null,,,,null
+9983731,5/10/17 5:29 AM,2017-05-10 05:29:00,null,Saturday,1494394140,DCNF,473,null,,,,null
+9983730,5/10/17 5:30 AM,2017-05-10 05:30:00,null,Saturday,1494394200,DCNF,474,null,,,,null
+9983729,5/10/17 5:50 AM,2017-05-10 05:50:00,null,Saturday,1494395400,DCNF,475,null,,,,null
+9983728,5/10/17 5:52 AM,2017-05-10 05:52:00,null,Saturday,1494395520,DCNF,476,null,,,,null
+9983727,5/10/17 5:53 AM,2017-05-10 05:53:00,null,Saturday,1494395580,DCNF,477,null,,,,null
+9983726,5/10/17 7:35 AM,2017-05-10 07:35:00,null,Saturday,1494401700,DCNF,478,null,,,,null
+9983725,5/10/17 7:35 AM,2017-05-10 07:35:00,null,Saturday,1494401700,DCNF,479,null,,,,null
+9983724,5/10/17 7:51 AM,2017-05-10 07:51:16,null,Saturday,1494402676,DCNF,480,null,,,,null
+9983723,5/10/17 7:52 AM,2017-05-10 07:52:00,null,Saturday,1494402720,DCNF,481,null,,,,null
+9983722,5/10/17 7:57 AM,2017-05-10 07:57:00,null,Saturday,1494403020,DCNF,482,null,,,,null
+9983721,5/10/17 7:58 AM,2017-05-10 07:58:00,null,Saturday,1494403080,DCNF,483,null,,,,null
+9983720,5/10/17 9:13 AM,2017-05-10 09:13:00,null,Saturday,1494407580,DCNF,484,null,,,,null
+9983719,5/10/17 1:52 PM,2017-05-10 13:52:00,null,Saturday,1494424320,DCNF,485,null,,,,null
+9983718,5/10/17 1:58 PM,2017-05-10 13:58:00,null,Saturday,1494424680,DCNF,486,null,,,,null
+9983717,5/10/17 2:00 PM,2017-05-10 14:00:00,null,Saturday,1494424800,DCNF,487,null,,,,null
+9983716,5/10/17 3:58 PM,2017-05-10 15:58:00,null,Saturday,1494431880,DCNF,488,null,,,,null
+9983715,5/10/17 4:01 PM,2017-05-10 16:01:00,null,Saturday,1494432060,DCNF,489,null,,,,null
+9983714,5/10/17 4:05 PM,2017-05-10 16:05:00,null,Saturday,1494432300,DCNF,490,null,,,,null
+9983713,5/10/17 8:09 PM,2017-05-10 20:09:00,null,Saturday,1494446940,DCNF,491,null,,,,null
+9983712,5/10/17 8:25 PM,2017-05-10 20:25:00,null,Saturday,1494447900,DCNF,492,null,,,,null
+9983711,5/10/17 8:26 PM,2017-05-10 20:26:00,null,Saturday,1494447960,DCNF,493,null,,,,null
+9983710,5/10/17 8:26 PM,2017-05-10 20:26:00,null,Saturday,1494447960,DCNF,494,null,,,,null
+9983709,5/10/17 8:28 PM,2017-05-10 20:28:00,null,Saturday,1494448080,DCNF,495,null,,,,null
+9983708,5/10/17 8:28 PM,2017-05-10 20:28:00,null,Saturday,1494448080,DCNF,496,null,,,,null
+9983707,5/10/17 8:32 PM,2017-05-10 20:32:00,null,Saturday,1494448320,DCNF,497,null,,,,null
+9983706,5/10/17 8:45 PM,2017-05-10 20:45:00,null,Saturday,1494449100,DCNF,498,null,,,,null
+9983705,5/10/17 8:57 PM,2017-05-10 20:57:00,null,Saturday,1494449820,DCNF,499,null,,,,null
+9983704,5/10/17 8:58 PM,2017-05-10 20:58:00,null,Saturday,1494449880,DCNF,500,null,,,,null
+9983703,5/10/17 9:24 PM,2017-05-10 21:24:00,null,Saturday,1494451440,DCNF,501,null,,,,null
+9983702,5/11/17 10:01 AM,2017-05-11 10:01:00,null,Saturday,1494496860,DCNF,502,null,,,,null
+9983701,5/11/17 10:58 AM,2017-05-11 10:58:00,null,Saturday,1494500280,DCNF,503,null,,,,null
+9983700,5/11/17 11:04 AM,2017-05-11 11:04:00,null,Saturday,1494500640,DCNF,504,null,,,,null
+9983699,5/11/17 11:08 AM,2017-05-11 11:08:00,null,Saturday,1494500880,DCNF,505,null,,,,null
+9983698,5/11/17 11:56 AM,2017-05-11 11:56:00,null,Saturday,1494503760,DCNF,506,null,,,,null
+9983697,5/11/17 12:03 PM,2017-05-11 12:03:22,null,Saturday,1494504202,DCNF,507,null,,,,null
+9983696,5/11/17 12:20 PM,2017-05-11 12:20:00,null,Saturday,1494505200,DCNF,508,null,,,,null
+9983695,5/11/17 12:23 PM,2017-05-11 12:23:00,null,Saturday,1494505380,DCNF,509,null,,,,null
+9983694,5/11/17 12:28 PM,2017-05-11 12:28:00,null,Saturday,1494505680,DCNF,510,null,,,,null
+9983693,5/11/17 12:28 PM,2017-05-11 12:28:00,null,Saturday,1494505680,DCNF,511,null,,,,null
+9983692,5/11/17 12:29 PM,2017-05-11 12:29:00,null,Saturday,1494505740,DCNF,512,null,,,,null
+9983691,5/11/17 12:29 PM,2017-05-11 12:29:00,null,Saturday,1494505740,DCNF,513,null,,,,null
+9983690,5/11/17 12:33 PM,2017-05-11 12:33:00,null,Saturday,1494505980,DCNF,514,null,,,,null
+9983689,5/11/17 12:33 PM,2017-05-11 12:33:00,null,Saturday,1494505980,DCNF,515,null,,,,null
+9983688,5/11/17 12:33 PM,2017-05-11 12:33:00,null,Saturday,1494505980,DCNF,516,null,,,,null
+9983687,5/11/17 12:33 PM,2017-05-11 12:33:00,null,Saturday,1494505980,DCNF,517,null,,,,null
+9983686,5/11/17 12:35 PM,2017-05-11 12:35:00,null,Saturday,1494506100,DCNF,518,null,,,,null
+9983685,5/11/17 12:36 PM,2017-05-11 12:36:00,null,Saturday,1494506160,DCNF,519,null,,,,null
+9983684,5/11/17 12:36 PM,2017-05-11 12:36:04,null,Saturday,1494506164,DCNF,520,null,,,,null
+9983683,5/11/17 12:37 PM,2017-05-11 12:37:00,null,Saturday,1494506220,DCNF,521,null,,,,null
+9983682,5/11/17 12:44 PM,2017-05-11 12:44:00,null,Saturday,1494506640,DCNF,522,null,,,,null
+9983681,5/11/17 12:56 PM,2017-05-11 12:56:00,null,Saturday,1494507360,DCNF,523,null,,,,null
+9983680,5/11/17 12:57 PM,2017-05-11 12:57:00,null,Saturday,1494507420,DCNF,524,null,,,,null
+9983679,5/11/17 1:23 PM,2017-05-11 13:23:00,null,Saturday,1494508980,DCNF,525,null,,,,null
+9983678,5/11/17 2:10 PM,2017-05-11 14:10:00,null,Saturday,1494511800,DCNF,526,null,,,,null
+9983677,5/11/17 2:10 PM,2017-05-11 14:10:00,null,Saturday,1494511800,DCNF,527,null,,,,null
+9983676,5/11/17 3:39 PM,2017-05-11 15:39:00,null,Saturday,1494517140,DCNF,528,null,,,,null
+9983675,5/11/17 4:30 PM,2017-05-11 16:30:11,null,Saturday,1494520211,DCNF,529,null,,,,null
+9983674,5/11/17 7:43 PM,2017-05-11 19:43:00,null,Saturday,1494531780,DCNF,530,null,,,,null
+9983673,5/11/17 7:53 PM,2017-05-11 19:53:00,null,Saturday,1494532380,DCNF,531,null,,,,null
+9983672,5/11/17 7:55 PM,2017-05-11 19:55:00,null,Saturday,1494532500,DCNF,532,null,,,,null
+9983671,5/11/17 7:55 PM,2017-05-11 19:55:00,null,Saturday,1494532500,DCNF,533,null,,,,null
+9983670,5/11/17 9:45 PM,2017-05-11 21:45:00,null,Saturday,1494539100,DCNF,534,null,,,,null
+9983669,5/11/17 9:51 PM,2017-05-11 21:51:00,null,Saturday,1494539460,DCNF,535,null,,,,null
+9983668,5/12/17 6:05 AM,2017-05-12 06:05:00,null,Saturday,1494569100,DCNF,536,null,,,,null
+9983667,5/12/17 6:10 AM,2017-05-12 06:10:00,null,Saturday,1494569400,DCNF,537,null,,,,null
+9983666,5/12/17 6:26 AM,2017-05-12 06:26:00,null,Saturday,1494570360,DCNF,538,null,,,,null
+9983665,5/12/17 7:54 AM,2017-05-12 07:54:00,null,Saturday,1494575640,DCNF,539,null,,,,null
+9983664,5/12/17 7:54 AM,2017-05-12 07:54:00,null,Saturday,1494575640,DCNF,540,null,,,,null
+9983663,5/12/17 7:54 AM,2017-05-12 07:54:00,null,Saturday,1494575640,DCNF,541,null,,,,null
+9983662,5/12/17 8:13 AM,2017-05-12 08:13:00,null,Saturday,1494576780,DCNF,542,null,,,,null
+9983661,5/12/17 8:14 AM,2017-05-12 08:14:23,null,Saturday,1494576863,DCNF,543,null,,,,null
+9983660,5/12/17 11:39 AM,2017-05-12 11:39:00,null,Saturday,1494589140,DCNF,544,null,,,,null
+9983659,5/12/17 12:05 PM,2017-05-12 12:05:00,null,Saturday,1494590700,DCNF,545,null,,,,null
+9983658,5/12/17 3:21 PM,2017-05-12 15:21:00,null,Saturday,1494602460,DCNF,546,null,,,,null
+9983657,5/12/17 3:21 PM,2017-05-12 15:21:00,null,Saturday,1494602460,DCNF,547,null,,,,null
+9983656,5/12/17 3:23 PM,2017-05-12 15:23:00,null,Saturday,1494602580,DCNF,548,null,,,,null
+9983655,5/12/17 3:23 PM,2017-05-12 15:23:00,null,Saturday,1494602580,DCNF,549,null,,,,null
+9983654,5/12/17 3:23 PM,2017-05-12 15:23:00,null,Saturday,1494602580,DCNF,550,null,,,,null
+9983653,5/12/17 3:24 PM,2017-05-12 15:24:00,null,Saturday,1494602640,DCNF,551,null,,,,null
+9983652,5/12/17 3:40 PM,2017-05-12 15:40:00,null,Saturday,1494603600,DCNF,552,null,,,,null
+9983651,5/12/17 3:42 PM,2017-05-12 15:42:00,null,Saturday,1494603720,DCNF,553,null,,,,null
+9983650,5/12/17 3:42 PM,2017-05-12 15:42:00,null,Saturday,1494603720,DCNF,554,null,,,,null
+9983649,5/12/17 5:11 PM,2017-05-12 17:11:00,null,Saturday,1494609060,DCNF,555,null,,,,null
+9983648,5/12/17 6:35 PM,2017-05-12 18:35:00,null,Saturday,1494614100,DCNF,556,null,,,,null
+9983647,5/13/17 9:40 PM,2017-05-13 21:40:00,null,Saturday,1494711600,DCNF,557,null,,,,null
+9983646,5/14/17 7:05 AM,2017-05-14 07:05:00,null,Saturday,1494745500,DCNF,558,null,,,,null
+9983645,5/14/17 7:07 AM,2017-05-14 07:07:00,null,Saturday,1494745620,DCNF,559,null,,,,null
+9983644,5/14/17 7:07 AM,2017-05-14 07:07:00,null,Saturday,1494745620,DCNF,560,null,,,,null
+9983643,5/14/17 7:07 AM,2017-05-14 07:07:00,null,Saturday,1494745620,DCNF,561,null,,,,null
+9983642,5/15/17 12:11 PM,2017-05-15 12:11:00,null,Saturday,1494850260,DCNF,562,null,,,,null
+9983641,5/15/17 12:11 PM,2017-05-15 12:11:00,null,Saturday,1494850260,DCNF,563,null,,,,null
+9983640,5/15/17 12:11 PM,2017-05-15 12:11:52,null,Saturday,1494850312,DCNF,564,null,,,,null
+9983639,5/15/17 12:12 PM,2017-05-15 12:12:00,null,Saturday,1494850320,DCNF,565,null,,,,null
+9983638,5/15/17 3:12 PM,2017-05-15 15:12:00,null,Saturday,1494861120,DCNF,566,null,,,,null
+9983637,5/15/17 3:31 PM,2017-05-15 15:31:00,null,Saturday,1494862260,DCNF,567,null,,,,null
+9983636,5/15/17 4:01 PM,2017-05-15 16:01:00,null,Saturday,1494864060,DCNF,568,null,,,,null
+9983635,5/15/17 4:03 PM,2017-05-15 16:03:00,null,Saturday,1494864180,DCNF,569,null,,,,null
+9983634,5/15/17 4:03 PM,2017-05-15 16:03:00,null,Saturday,1494864180,DCNF,570,null,,,,null
+9983633,5/15/17 4:04 PM,2017-05-15 16:04:00,null,Saturday,1494864240,DCNF,571,null,,,,null
+9983632,5/15/17 5:07 PM,2017-05-15 17:07:00,null,Saturday,1494868020,DCNF,572,null,,,,null
+9983631,5/15/17 5:13 PM,2017-05-15 17:13:00,null,Saturday,1494868380,DCNF,573,null,,,,null
+9983630,5/15/17 6:47 PM,2017-05-15 18:47:00,null,Saturday,1494874020,DCNF,574,null,,,,null
+9983629,5/16/17 7:48 AM,2017-05-16 07:48:00,null,Saturday,1494920880,DCNF,575,null,,,,null
+9983628,5/16/17 8:01 AM,2017-05-16 08:01:00,null,Saturday,1494921660,DCNF,576,null,,,,null
+9983627,5/16/17 8:08 AM,2017-05-16 08:08:00,null,Saturday,1494922080,DCNF,577,null,,,,null
+9983626,5/16/17 8:08 AM,2017-05-16 08:08:00,null,Saturday,1494922080,DCNF,578,null,,,,null
+9983625,5/16/17 10:31 AM,2017-05-16 10:31:00,null,Saturday,1494930660,DCNF,579,null,,,,null
+9983624,5/16/17 12:03 PM,2017-05-16 12:03:00,null,Saturday,1494936180,DCNF,580,null,,,,null
+9983623,5/16/17 12:20 PM,2017-05-16 12:20:00,null,Saturday,1494937200,DCNF,581,null,,,,null
+9983622,5/16/17 12:21 PM,2017-05-16 12:21:00,null,Saturday,1494937260,DCNF,582,null,,,,null
+9983621,5/16/17 1:55 PM,2017-05-16 13:55:00,null,Saturday,1494942900,DCNF,583,null,,,,null
+9983620,5/16/17 4:19 PM,2017-05-16 16:19:00,null,Saturday,1494951540,DCNF,584,null,,,,null
+9983619,5/16/17 4:44 PM,2017-05-16 16:44:00,null,Saturday,1494953040,DCNF,585,null,,,,null
+9983618,5/16/17 5:27 PM,2017-05-16 17:27:00,null,Saturday,1494955620,DCNF,586,null,,,,null
+9983617,5/16/17 6:39 PM,2017-05-16 18:39:00,null,Saturday,1494959940,DCNF,587,null,,,,null
+9983616,5/16/17 7:15 PM,2017-05-16 19:15:00,null,Saturday,1494962100,DCNF,588,null,,,,null
+9983615,5/16/17 7:16 PM,2017-05-16 19:16:00,null,Saturday,1494962160,DCNF,589,null,,,,null
+9983614,5/16/17 7:16 PM,2017-05-16 19:16:00,null,Saturday,1494962160,DCNF,590,null,,,,null
+9983613,5/16/17 7:16 PM,2017-05-16 19:16:00,null,Saturday,1494962160,DCNF,591,null,,,,null
+9983612,5/16/17 7:17 PM,2017-05-16 19:17:00,null,Saturday,1494962220,DCNF,592,null,,,,null
+9983611,5/16/17 7:17 PM,2017-05-16 19:17:00,null,Saturday,1494962220,DCNF,593,null,,,,null
+9983610,5/16/17 7:18 PM,2017-05-16 19:18:00,null,Saturday,1494962280,DCNF,594,null,,,,null
+9983609,5/16/17 7:19 PM,2017-05-16 19:19:00,null,Saturday,1494962340,DCNF,595,null,,,,null
+9983608,5/16/17 9:35 PM,2017-05-16 21:35:00,null,Saturday,1494970500,DCNF,596,null,,,,null
+9983607,5/16/17 9:35 PM,2017-05-16 21:35:00,null,Saturday,1494970500,DCNF,597,null,,,,null
+9983606,5/16/17 9:36 PM,2017-05-16 21:36:00,null,Saturday,1494970560,DCNF,598,null,,,,null
+9983605,5/16/17 9:37 PM,2017-05-16 21:37:00,null,Saturday,1494970620,DCNF,599,null,,,,null
+9983604,5/16/17 9:37 PM,2017-05-16 21:37:00,null,Saturday,1494970620,DCNF,600,null,,,,null
+9983603,5/16/17 9:37 PM,2017-05-16 21:37:00,null,Saturday,1494970620,DCNF,601,null,,,,null
+9983602,5/16/17 9:37 PM,2017-05-16 21:37:00,null,Saturday,1494970620,DCNF,602,null,,,,null
+9983601,5/16/17 9:38 PM,2017-05-16 21:38:00,null,Saturday,1494970680,DCNF,603,null,,,,null
+9983600,5/16/17 9:41 PM,2017-05-16 21:41:00,null,Saturday,1494970860,DCNF,604,null,,,,null
+9983599,5/16/17 9:52 PM,2017-05-16 21:52:00,null,Saturday,1494971520,DCNF,605,null,,,,null
+9983598,5/16/17 9:59 PM,2017-05-16 21:59:00,null,Saturday,1494971940,DCNF,606,null,,,,null
+9983597,5/16/17 10:01 PM,2017-05-16 22:01:00,null,Saturday,1494972060,DCNF,607,null,,,,null
+9983596,5/16/17 10:01 PM,2017-05-16 22:01:00,null,Saturday,1494972060,DCNF,608,null,,,,null
+9983595,5/16/17 10:01 PM,2017-05-16 22:01:00,null,Saturday,1494972060,DCNF,609,null,,,,null
+9983594,5/16/17 10:02 PM,2017-05-16 22:02:00,null,Saturday,1494972120,DCNF,610,null,,,,null
+9983593,5/16/17 10:02 PM,2017-05-16 22:02:00,null,Saturday,1494972120,DCNF,611,null,,,,null
+9983592,5/16/17 10:02 PM,2017-05-16 22:02:00,null,Saturday,1494972120,DCNF,612,null,,,,null
+9983591,5/16/17 10:02 PM,2017-05-16 22:02:00,null,Saturday,1494972120,DCNF,613,null,,,,null
+9983590,5/16/17 10:03 PM,2017-05-16 22:03:00,null,Saturday,1494972180,DCNF,614,null,,,,null
+9983589,5/16/17 10:03 PM,2017-05-16 22:03:00,null,Saturday,1494972180,DCNF,615,null,,,,null
+9983588,5/16/17 10:05 PM,2017-05-16 22:05:00,null,Saturday,1494972300,DCNF,616,null,,,,null
+9983587,5/16/17 10:06 PM,2017-05-16 22:06:00,null,Saturday,1494972360,DCNF,617,null,,,,null
+9983586,5/16/17 10:08 PM,2017-05-16 22:08:00,null,Saturday,1494972480,DCNF,618,null,,,,null
+9983585,5/16/17 10:09 PM,2017-05-16 22:09:00,null,Saturday,1494972540,DCNF,619,null,,,,null
+9983584,5/16/17 10:10 PM,2017-05-16 22:10:00,null,Saturday,1494972600,DCNF,620,null,,,,null
+9983583,5/16/17 10:12 PM,2017-05-16 22:12:00,null,Saturday,1494972720,DCNF,621,null,,,,null
+9983582,5/16/17 10:19 PM,2017-05-16 22:19:00,null,Saturday,1494973140,DCNF,622,null,,,,null
+9983581,5/16/17 10:22 PM,2017-05-16 22:22:00,null,Saturday,1494973320,DCNF,623,null,,,,null
+9983580,5/16/17 10:23 PM,2017-05-16 22:23:00,null,Saturday,1494973380,DCNF,624,null,,,,null
+9983579,5/16/17 10:25 PM,2017-05-16 22:25:00,null,Saturday,1494973500,DCNF,625,null,,,,null
+9983578,5/16/17 10:26 PM,2017-05-16 22:26:00,null,Saturday,1494973560,DCNF,626,null,,,,null
+9983577,5/16/17 10:27 PM,2017-05-16 22:27:00,null,Saturday,1494973620,DCNF,627,null,,,,null
+9983576,5/16/17 10:29 PM,2017-05-16 22:29:00,null,Saturday,1494973740,DCNF,628,null,,,,null
+9983575,5/16/17 10:29 PM,2017-05-16 22:29:00,null,Saturday,1494973740,DCNF,629,null,,,,null
+9983574,5/16/17 10:52 PM,2017-05-16 22:52:00,null,Saturday,1494975120,DCNF,630,null,,,,null
+9983573,5/16/17 11:17 PM,2017-05-16 23:17:00,null,Saturday,1494976620,DCNF,631,null,,,,null
+9983572,5/16/17 11:18 PM,2017-05-16 23:18:00,null,Saturday,1494976680,DCNF,632,null,,,,null
+9983571,5/16/17 11:30 PM,2017-05-16 23:30:00,null,Saturday,1494977400,DCNF,633,null,,,,null
+9983570,5/16/17 11:32 PM,2017-05-16 23:32:30,null,Saturday,1494977550,DCNF,634,null,,,,null
+9983569,5/16/17 11:33 PM,2017-05-16 23:33:00,null,Saturday,1494977580,DCNF,635,null,,,,null
+9983568,5/16/17 11:34 PM,2017-05-16 23:34:00,null,Saturday,1494977640,DCNF,636,null,,,,null
+9983567,5/16/17 11:35 PM,2017-05-16 23:35:00,null,Saturday,1494977700,DCNF,637,null,,,,null
+9983566,5/16/17 11:36 PM,2017-05-16 23:36:00,null,Saturday,1494977760,DCNF,638,null,,,,null
+9983565,5/16/17 11:36 PM,2017-05-16 23:36:00,null,Saturday,1494977760,DCNF,639,null,,,,null
+9983564,5/16/17 11:36 PM,2017-05-16 23:36:00,null,Saturday,1494977760,DCNF,640,null,,,,null
+9983563,5/16/17 11:37 PM,2017-05-16 23:37:00,null,Saturday,1494977820,DCNF,641,null,,,,null
+9983562,5/17/17 5:31 AM,2017-05-17 05:31:00,null,Saturday,1494999060,DCNF,642,null,,,,null
+9983561,5/17/17 5:42 AM,2017-05-17 05:42:00,null,Saturday,1494999720,DCNF,643,null,,,,null
+9983560,5/17/17 5:55 AM,2017-05-17 05:55:00,null,Saturday,1495000500,DCNF,644,null,,,,null
+9983559,5/17/17 5:56 AM,2017-05-17 05:56:00,null,Saturday,1495000560,DCNF,645,null,,,,null
+9983558,5/17/17 6:02 AM,2017-05-17 06:02:00,null,Saturday,1495000920,DCNF,646,null,,,,null
+9983557,5/17/17 6:12 AM,2017-05-17 06:12:00,null,Saturday,1495001520,DCNF,647,null,,,,null
+9983556,5/17/17 6:15 AM,2017-05-17 06:15:00,null,Saturday,1495001700,DCNF,648,null,,,,null
+9983555,5/17/17 6:21 AM,2017-05-17 06:21:00,null,Saturday,1495002060,DCNF,649,null,,,,null
+9983554,5/17/17 6:25 AM,2017-05-17 06:25:00,null,Saturday,1495002300,DCNF,650,null,,,,null
+9983553,5/17/17 6:30 AM,2017-05-17 06:30:00,null,Saturday,1495002600,DCNF,651,null,,,,null
+9983552,5/17/17 6:35 AM,2017-05-17 06:35:00,null,Saturday,1495002900,DCNF,652,null,,,,null
+9983551,5/17/17 7:01 AM,2017-05-17 07:01:00,null,Saturday,1495004460,DCNF,653,null,,,,null
+9983550,5/17/17 7:17 AM,2017-05-17 07:17:00,null,Saturday,1495005420,DCNF,654,null,,,,null
+9983549,5/17/17 7:18 AM,2017-05-17 07:18:00,null,Saturday,1495005480,DCNF,655,null,,,,null
+9983548,5/17/17 7:19 AM,2017-05-17 07:19:00,null,Saturday,1495005540,DCNF,656,null,,,,null
+9983547,5/17/17 12:10 PM,2017-05-17 12:10:00,null,Saturday,1495023000,DCNF,657,null,,,,null
+9983546,5/17/17 12:58 PM,2017-05-17 12:58:00,null,Saturday,1495025880,DCNF,658,null,,,,null
+9983545,5/17/17 12:58 PM,2017-05-17 12:58:00,null,Saturday,1495025880,DCNF,659,null,,,,null
+9983544,5/17/17 2:18 PM,2017-05-17 14:18:00,null,Saturday,1495030680,DCNF,660,null,,,,null
+9983543,5/17/17 2:40 PM,2017-05-17 14:40:00,null,Saturday,1495032000,DCNF,661,null,,,,null
+9983542,5/17/17 3:52 PM,2017-05-17 15:52:00,null,Saturday,1495036320,DCNF,662,null,,,,null
+9983541,5/17/17 3:52 PM,2017-05-17 15:52:00,null,Saturday,1495036320,DCNF,663,null,,,,null
+9983540,5/17/17 3:57 PM,2017-05-17 15:57:00,null,Saturday,1495036620,DCNF,664,null,,,,null
+9983539,5/17/17 4:30 PM,2017-05-17 16:30:00,null,Saturday,1495038600,DCNF,665,null,,,,null
+9983538,5/17/17 4:42 PM,2017-05-17 16:42:00,null,Saturday,1495039320,DCNF,666,null,,,,null
+9983537,5/17/17 4:52 PM,2017-05-17 16:52:00,null,Saturday,1495039920,DCNF,667,null,,,,null
+9983536,5/17/17 4:53 PM,2017-05-17 16:53:00,null,Saturday,1495039980,DCNF,668,null,,,,null
+9983535,5/17/17 4:53 PM,2017-05-17 16:53:00,null,Saturday,1495039980,DCNF,669,null,,,,null
+9983534,5/17/17 4:58 PM,2017-05-17 16:58:00,null,Saturday,1495040280,DCNF,670,null,,,,null
+9983533,5/17/17 4:59 PM,2017-05-17 16:59:00,null,Saturday,1495040340,DCNF,671,null,,,,null
+9983532,5/17/17 5:05 PM,2017-05-17 17:05:00,null,Saturday,1495040700,DCNF,672,null,,,,null
+9983531,5/17/17 6:02 PM,2017-05-17 18:02:00,null,Saturday,1495044120,DCNF,673,null,,,,null
+9983530,5/17/17 6:18 PM,2017-05-17 18:18:00,null,Saturday,1495045080,DCNF,674,null,,,,null
+9983529,5/17/17 6:30 PM,2017-05-17 18:30:00,null,Saturday,1495045800,DCNF,675,null,,,,null
+9983528,5/17/17 7:45 PM,2017-05-17 19:45:00,null,Saturday,1495050300,DCNF,676,null,,,,null
+9983527,5/17/17 9:07 PM,2017-05-17 21:07:00,null,Saturday,1495055220,DCNF,677,null,,,,null
+9983526,5/17/17 9:08 PM,2017-05-17 21:08:00,null,Saturday,1495055280,DCNF,678,null,,,,null
+9983525,5/17/17 9:11 PM,2017-05-17 21:11:00,null,Saturday,1495055460,DCNF,679,null,,,,null
+9983524,5/17/17 9:24 PM,2017-05-17 21:24:13,null,Saturday,1495056253,DCNF,680,null,,,,null
+9983523,5/18/17 6:14 AM,2017-05-18 06:14:00,null,Saturday,1495088040,DCNF,681,null,,,,null
+9983522,5/18/17 6:22 AM,2017-05-18 06:22:00,null,Saturday,1495088520,DCNF,682,null,,,,null
+9983521,5/18/17 6:23 AM,2017-05-18 06:23:00,null,Saturday,1495088580,DCNF,683,null,,,,null
+9983520,5/18/17 6:31 AM,2017-05-18 06:31:00,null,Saturday,1495089060,DCNF,684,null,,,,null
+9983519,5/18/17 6:32 AM,2017-05-18 06:32:00,null,Saturday,1495089120,DCNF,685,null,,,,null
+9983518,5/18/17 6:33 AM,2017-05-18 06:33:00,null,Saturday,1495089180,DCNF,686,null,,,,null
+9983517,5/18/17 6:47 AM,2017-05-18 06:47:00,null,Saturday,1495090020,DCNF,687,null,,,,null
+9983516,5/18/17 6:52 AM,2017-05-18 06:52:00,null,Saturday,1495090320,DCNF,688,null,,,,null
+9983515,5/18/17 6:57 AM,2017-05-18 06:57:00,null,Saturday,1495090620,DCNF,689,null,,,,null
+9983514,5/18/17 7:21 AM,2017-05-18 07:21:00,null,Saturday,1495092060,DCNF,690,null,,,,null
+9983513,5/18/17 7:23 AM,2017-05-18 07:23:00,null,Saturday,1495092180,DCNF,691,null,,,,null
+9983512,5/18/17 7:28 AM,2017-05-18 07:28:00,null,Saturday,1495092480,DCNF,692,null,,,,null
+9983511,5/18/17 7:31 AM,2017-05-18 07:31:00,null,Saturday,1495092660,DCNF,693,null,,,,null
+9983510,5/18/17 7:50 AM,2017-05-18 07:50:00,null,Saturday,1495093800,DCNF,694,null,,,,null
+9983509,5/23/17 9:03 PM,2017-05-23 21:03:00,null,Saturday,1495573380,DCNF,695,null,,,,null
