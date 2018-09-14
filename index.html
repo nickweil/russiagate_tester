@@ -124,7 +124,7 @@
 		</div>
 		<br/>
 		<br/>-->
-		<div id="brand" class="facet">
+		<div id="sender" class="facet">
 			<div>
 				<div class="ais-root ais-refinement-list ais-root__collapsible">
 					<div class="ais-refinement-list--header ais-header"><h5>Sender</h5>
@@ -170,14 +170,14 @@
 <script type="text/html" id="hit-template">
   <div class="hit">
     <div class="hit-content">
-        <p class="hit-category-breadcrumb">{{{name}}} {{{type}}}</p>
-		<!--<h3 class="hit-name">{{{brand}}}</h3>-->
+        <p class="hit-category-breadcrumb">{{{date}}} {{{weekday}}}</p>
+		<!--<h3 class="hit-name">{{{sender}}}</h3>-->
     </div>
 	<div class="hit-sender">
-		<img src="{{url}}" alt="{{brand}}">
+		<img src="{{senderimgurl}}" alt="{{sender}}">
     </div>
 	<div class="hit-image">
-		<img src="{{image}}" alt="{{name}}">
+		<img src="{{textimgurl}}" alt="{{date}}">
     </div>
   </div>
 </script>

@@ -3,10 +3,10 @@ var search = instantsearch({
   // Replace with your own values
   appId: 'DTH6V8NWJ2',
   apiKey: 'fd1f8a02a87cf784faf55a8a686700e7', // search only API key, no ADMIN key
-  indexName: 'records',
+  indexName: 'texts',
   urlSync: true,
   searchParameters: {
-    hitsPerPage: 100
+    hitsPerPage: 1000
   }
 });
 
@@ -30,8 +30,8 @@ search.addWidget(
 
   search.addWidget(
     instantsearch.widgets.refinementList({
-      container: '#brand',
-      attributeName: 'brand',
+      container: '#sender',
+      attributeName: 'sender',
       limit: 2,
 	  templates: {
         header: getHeader('Sender'),
