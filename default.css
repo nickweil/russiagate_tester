@@ -51,7 +51,7 @@ header img {
 #right-header {
 	top: 15px;
 	width: 60%;
-	margin-left: 40%;
+	float: right;
 }
 .ais-search-box {
   max-width: 100%;
