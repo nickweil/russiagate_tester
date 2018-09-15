@@ -47,29 +47,27 @@ header img {
   max-width: 23%;
 }
 .ais-search-box {
-  max-width: 85%;
+  max-width: 70%;
 }
 .ais-search-box--reset {
-  top: 16px;
+  top: 4px;
 }
 .ais-search-box--magnifier {
-  top: 16px;
+  top: 4px;
 }
 .ais-search-box--magnifier svg, .ais-search-box--reset svg {
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   fill: rgb(142, 142, 142);
 }
 #search-input {
   margin-left: 0%;
 }
 #search-input input {
-  font-size: 28px;
-  padding-left: 100px;  
-  font-weight: 100;
-  padding: 10px 10px 5px 35px;
+  padding-left: 10x;  
+  padding: 5px 10px 5px 30px;
   border: none;
-  border-bottom: 5px solid #eee;
+  border-bottom: 3px solid #eee;
 }
 #search-input input, #search-input input:focus {
   transition: border-color .3s ease-in;
