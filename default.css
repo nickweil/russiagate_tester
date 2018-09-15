@@ -81,7 +81,7 @@ header img {
 #search-input input::-webkit-input-placeholder, #search-input input:-moz-placeholder, #search-input input:-moz-placeholder, #search-input input:-ms-input-placeholder {
   font-weight: 100;
   color: #999;
-  
+} 
 
 /* HITS */
 #hits {
