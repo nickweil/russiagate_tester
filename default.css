@@ -308,10 +308,11 @@ header img {
   cursor: pointer;
 }
 
-.ais-refinementlist--header ais-header {
+.ais-refinementlist--header {
 	margin: 0 0 6px;
 	padding: 0 0 6px;
 	text-transform: uppercase;
+	text-size: 14px;
 	border-bottom: 2px solid #eee;
 }
 
