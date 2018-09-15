@@ -43,8 +43,8 @@ header img {
   position: absolute;
   top: 9px;
   left: 0;
-  float: center;
-  max-width: 23%;
+  float: left;
+  max-height: 90%;
 }
 .ais-search-box {
   max-width: 100%;
