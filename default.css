@@ -48,11 +48,6 @@ header img {
   max-width: 31%;
 }
 
-#right-header {
-	top: 15px;
-	width: 60%;
-	float: right;
-}
 .ais-search-box {
   max-width: 100%;
 }
@@ -88,6 +83,12 @@ header img {
   font-weight: 100;
   color: #999;
 } 
+
+#search-suggestions {
+	margin-left: 0%;
+	top: 20px;
+	bottom: 20px;
+}
 
 /* HITS */
 #hits {
