@@ -290,10 +290,7 @@ header img {
   color: #000;
 }
 .facet h5 {
-  margin: 0 0 6px;
-  padding: 0 0 6px;
-  text-transform: uppercase;
-  border-bottom: 2px solid #eee;
+
 }
 .facet ul {
   margin: 0;
@@ -311,25 +308,11 @@ header img {
   cursor: pointer;
 }
 
-/* Collapsable FACETS */
-.ais-root__collapsible .ais-header h5:hover {
-  border-color: #c5c5c5;
-  transition : border 500ms ease-out;
-}
-
-.ais-root__collapsible.ais-root__collapsed .ais-header h5:hover {
-  border-color: #333;
-}
-
-.ais-root__collapsible .ais-header h5:before {
-  display: inline-block;
-  font: normal normal normal 16px/1 FontAwesome;
-  content: "\f106";
-  float: right;
-}
-
-.ais-root__collapsible.ais-root__collapsed .ais-header h5:before {
-  content: "\f107";
+.ais-refinementlist--header ais-header {
+	margin: 0 0 6px;
+	padding: 0 0 6px;
+	text-transform: uppercase;
+	border-bottom: 2px solid #eee;
 }
 
 .ais-refinement-list--label,
