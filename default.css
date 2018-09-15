@@ -11,6 +11,13 @@ h1, h2, h3 {
     display: inline;
 }
 
+h5 {
+  margin: 0 0 6px;
+  padding: 0 0 6px;
+  text-transform: uppercase;
+  border-bottom: 2px solid #eee;
+}
+
 header, main, #no-results, footer {
   width: 1000px;
   margin: 0 auto;
