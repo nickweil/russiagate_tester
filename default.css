@@ -119,8 +119,8 @@ header img {
   margin-bottom: 3px;
 }
 
-.facet a:visited,
-.facet a {
+.ais-refinementlist a:visited,
+.ais-refinementlist a {
   color: #000;
   text-decoration: none;
   cursor: pointer;
