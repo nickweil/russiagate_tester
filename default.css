@@ -1,6 +1,7 @@
 /* GENERAL */
 * {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  box-sizing: border-box;
   font-size: 14px;
 }
 html {
@@ -25,6 +26,11 @@ main {
   width: 82%;
   margin-left: 18%;
 }
+.clear:after {
+  content: '';
+  display: table;
+  clear: both;
+}
 header {
   position: relative;
   height: 80px;
@@ -36,11 +42,6 @@ header img {
   left: 0;
   float: left;
   max-width: 31%;
-}
-.clear:after {
-  content: '';
-  display: table;
-  clear: both;
 }
 
 /* LEFT COLUMN */
@@ -72,8 +73,9 @@ header img {
   margin-left: 0%;
 }
 #search-input input {
-  padding-left: 10x;
-  max-width: 110px;  
+  padding-left: 14x;
+  width: 110px; 
+  height: 15px; 
   padding: 5px 10px 5px 30px;
   border: none;
   border-bottom: 3px solid #eee;
@@ -88,7 +90,8 @@ header img {
 #search-input input::-webkit-input-placeholder, #search-input input:-moz-placeholder, #search-input input:-moz-placeholder, #search-input input:-ms-input-placeholder {
   font-weight: 100;
   color: #999;
-} 
+}
+
 #search-suggestions {
 	margin-left: 0%;
 	margin-top: 20px;
