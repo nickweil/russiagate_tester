@@ -33,9 +33,6 @@ search.addWidget(
       container: '#sender',
       attributeName: 'sender',
       limit: 2,
-	  templates: {
-        header: getHeader('Sender'),
-	},
 	})
   );
 
