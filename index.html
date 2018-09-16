@@ -20,7 +20,18 @@
   <main>
 	<div id="left-column">
 		<div class="left-column-header">SEARCH</div>
-		<div id="search-input"></div>
+		<div class="searchbox-container">
+			<div class="input-group">
+				<div class="ais-search-box">
+					<input id="q" type="text" class="form-control ais-search-box--input" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="" role="textbox" spellcheck="false" value="">
+				</div>
+			</div>
+			<span class="input-group-btn">
+				<button class="btn btn-default">
+					<i class="fa fa-search"></i>
+				</button>
+			</span>
+		</div>
 		<div id="search-suggestions">
 			<div id="search-suggestions-header">TRY:</div>
 			<div id="suggested-searches">"Trump", "Brennan", "Andy", "Bill", "ODNI", "C4"</div>
