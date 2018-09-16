@@ -56,28 +56,28 @@ header img {
 /* SEARCH BOX */
 
 .searchbox-container {
-    margin-left: 240px;
+    margin-left: 0px;
     max-width: 400px; 
 }
 .searchbox-container .ais-search-box {
-      max-width: inherit; 
+    max-width: inherit; 
 }
 .searchbox-container .ais-search-box #q {
-        border-radius: 0;
-        padding-bottom: 7px; 
+    border-radius: 0;
+    padding-bottom: 7px; 
 }
 .searchbox-container .input-group {
-      margin-top: 5px; 
+	margin-top: 5px; 
 }
 .searchbox-container .input-group .form-control:focus {
-        outline: none;
-        box-shadow: none; 
+    outline: none;
+    box-shadow: none; 
 }
 .searchbox-container .input-group .input-group-btn button {
-        padding-left: 20px;
-        padding-right: 20px;
-        background: #F8F8F8;
-        border-radius: 0; 
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #F8F8F8;
+    border-radius: 0; 
 }
 
 #search-suggestions {
