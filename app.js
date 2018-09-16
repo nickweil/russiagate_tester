@@ -32,7 +32,8 @@ search.addWidget(
     instantsearch.widgets.refinementList({
       container: '#sender',
       attributeName: 'sender',
-      limit: 2,
+	  operator: 'or',
+      limit: 2
 	})
   );
 
