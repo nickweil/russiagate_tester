@@ -100,32 +100,25 @@ header img {
 /* REFINEMENT LIST */
 
 
-#sender.ais-refinementlist {
+#sender .ais-refinementlist {
   margin-bottom: 24px;
   color: #000;
 }
 
-#sender.ais-refinementlist-list ul {
+#sender ul.ais-refinementlist-list {
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
-#sender.ais-refinementlist-item li {
+#sender li.ais-refinementlist-item {
   margin-bottom: 3px;
 }
 
-#sender.ais-refinementlist a:visited,
+#sender .ais-refinementlist a:visited,
 .ais-refinementlist a {
   color: #000;
   text-decoration: none;
   cursor: pointer;
-}
-
-#sender..ais-refinementlist--header {
-	margin: 0 0 6px;
-	padding: 0 0 6px;
-	text-transform: uppercase;
-	border-bottom: 2px solid #eee;
 }
 
 .ais-refinement-list--label,
