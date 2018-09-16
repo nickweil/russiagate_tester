@@ -65,15 +65,5 @@ function getCategoryBreadcrumb(item) {
   return highlightValues.map(category => category.value).join(' > ');
 }
 
-function getStarsHTML(rating, maxRating) {
-  let html = '';
-  const newRating = maxRating || 5;
-
-  for (let i = 0; i < newRating; ++i) {
-    html += `<span class="ais-star-rating--star${
-      i < rating ? '' : '__empty'
-    }"></span>`;
-  }
-
   return html;
 }
