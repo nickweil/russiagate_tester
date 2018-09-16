@@ -9,44 +9,53 @@ var search = instantsearch({
     hitsPerPage: 1000
   }
 });
+function app(opts) {
+	const search = instantsearch({
+		appId: opts.appId,
+		apiKey: opts.apiKey,
+		indexName: opts.indexName,
+		urlSync: true,
+		searchFunction: opts.searchFunction,
+	});
 
 // Add this after the previous JavaScript code
-search.addWidget(
-  instantsearch.widgets.searchBox({
-    container: '#search-input'
-  })
-);
+	search.addWidget(
+		instantsearch.widgets.searchBox({
+			container: '#search-input'
+		})
+	);
 
 // Add this after the previous JavaScript code
-search.addWidget(
-  instantsearch.widgets.hits({
-    container: '#hits',
-    templates: {
-      item: document.getElementById('hit-template').innerHTML,
-      empty: "We didn't find any results for the search <em>\"{{query}}\"</em>"
-    }
-  })
-);
+	search.addWidget(
+		instantsearch.widgets.hits({
+			container: '#hits',
+				templates: {
+				item: document.getElementById('hit-template').innerHTML,
+				empty: "We didn't find any results for the search <em>\"{{query}}\"</em>"
+			}
+		})
+	);
 
-  search.addWidget(
-    instantsearch.widgets.refinementList({
-      container: '#sender',
-      attributeName: 'sender',
-	  operator: 'or',
-      limit: 2
-	})
-  );
+	search.addWidget(
+		instantsearch.widgets.refinementList({
+			container: '#sender',
+			attributeName: 'sender',
+			operator: 'or',
+			limit: 2
+		})
+	);
 
 // Add this after the other search.addWidget() calls
-search.addWidget(
-  instantsearch.widgets.pagination({
-    container: '#pagination'
-  })
-);
+	search.addWidget(
+		instantsearch.widgets.pagination({
+			container: '#pagination'
+		})
+	);
 
 
 // Add this after all the search.addWidget() calls
-search.start();
+	search.start();
+}
 
 // ---------------------
 //
