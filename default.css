@@ -55,32 +55,32 @@ header img {
 
 /* SEARCH BOX */
 
-.searchbox-container {
+#search-input {
     margin-left: 0px;
     max-width: 400px; 
 }
-.searchbox-container .ais-search-box {
+#search-input .ais-search-box {
     max-width: inherit; 
 }
-.searchbox-container .ais-search-box #q {
+#search-input .ais-search-box #q {
     border-radius: 0;
     padding-bottom: 7px; 
 }
-.searchbox-container .search-input {
+#search-input {
 	margin-top: 5px; 
 }
-.searchbox-container .search-input .form-control:focus {
+#search-input .form-control:focus {
     outline: none;
     box-shadow: none; 
 }
-.searchbox-container .search-input .input-group-btn button {
+#search-input .input-group-btn button {
     padding-left: 20px;
     padding-right: 20px;
     background: #F8F8F8;
     border-radius: 0; 
 }
 
-.ais-search-box--input {
+#search-input .ais-search-box--input {
   padding-left: 14px; 
 }
 
