@@ -74,6 +74,3 @@ function getCategoryBreadcrumb(item) {
   const highlightValues = item._highlightResult.categories || [];
   return highlightValues.map(category => category.value).join(' > ');
 }
-
-  return html;
-}
