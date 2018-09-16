@@ -40,8 +40,10 @@ function app(opts) {
 		instantsearch.widgets.refinementList({
 			container: '#sender',
 			attributeName: 'sender',
-			operator: 'or',
-			limit: 2
+			limit: 2,
+			cssClasses: {
+
+			}
 		})
 	);
 
