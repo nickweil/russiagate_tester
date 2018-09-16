@@ -66,14 +66,14 @@ header img {
     border-radius: 0;
     padding-bottom: 7px; 
 }
-.searchbox-container .input-group {
+.searchbox-container .search-input {
 	margin-top: 5px; 
 }
-.searchbox-container .input-group .form-control:focus {
+.searchbox-container .search-input .form-control:focus {
     outline: none;
     box-shadow: none; 
 }
-.searchbox-container .input-group .input-group-btn button {
+.searchbox-container .search-input .input-group-btn button {
     padding-left: 20px;
     padding-right: 20px;
     background: #F8F8F8;
