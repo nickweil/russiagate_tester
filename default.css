@@ -1,6 +1,7 @@
 /* GENERAL */
 * {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 14px;
 }
 html {
   overflow-y: scroll;
@@ -91,12 +92,12 @@ header img {
 }
 
 #search-suggestions-header {
-	font-size: 14px;
 	margin-bottom: 5px;
 }
 
 #suggested-searches {
-	font-size: 14px;
+
+
 }
 
 /* HITS */
@@ -183,7 +184,7 @@ header img {
 .hit-content .hit-description {
   color: #868686;
   margin: 1px 0 10px 0;
-  font-size: 14px;
+
 }
 
 /* PAGINATION */
@@ -196,7 +197,6 @@ header img {
   text-align: center;
 }
 #pagination li {
-  font-size: 14px;
   display: inline;
 }
 #pagination a {
@@ -286,7 +286,6 @@ header img {
 /* FACETS */
 .facet {
   margin-bottom: 24px;
-  font-size: 14px;
   color: #000;
 }
 .facet h5 {
@@ -312,7 +311,6 @@ header img {
 	margin: 0 0 6px;
 	padding: 0 0 6px;
 	text-transform: uppercase;
-	font-size: 14px;
 	border-bottom: 2px solid #eee;
 }
 
@@ -320,7 +318,6 @@ header img {
 	margin: 0 0 6px;
 	padding: 0 0 6px;
 	text-transform: uppercase;
-	text-size: 14px;
 	border-bottom: 2px solid #eee;
 }
 
@@ -516,7 +513,6 @@ a.clear-all:hover {
 
 /* FOOTER */
 footer {
-  font-size: 14px;
   margin-top: 200px;
   margin-bottom: 15px;
   text-align: center;
