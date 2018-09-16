@@ -105,28 +105,28 @@ header img {
 /* REFINEMENT LIST */
 
 
-.ais-refinementlist {
+#sender.ais-refinementlist {
   margin-bottom: 24px;
   color: #000;
 }
 
-.ais-refinementlist-list ul {
+#sender.ais-refinementlist-list ul {
   margin: 0;
   padding: 0;
   list-style-type: none;
 }
-.ais-refinementlist-item li {
+#sender.ais-refinementlist-item li {
   margin-bottom: 3px;
 }
 
-.ais-refinementlist a:visited,
+#sender.ais-refinementlist a:visited,
 .ais-refinementlist a {
   color: #000;
   text-decoration: none;
   cursor: pointer;
 }
 
-.ais-refinementlist--header {
+#sender..ais-refinementlist--header {
 	margin: 0 0 6px;
 	padding: 0 0 6px;
 	text-transform: uppercase;
