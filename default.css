@@ -98,6 +98,7 @@ header img {
 }
 
 /* RIGHT COLUMN */
+/* HITS */
 #hits {
   margin: 4px 0;
   padding: 10px 0;
@@ -125,7 +126,7 @@ header img {
 .hit-image {
   display: inline-block;
   text-align: right;
-  width: 78%;
+  width: 76%;
   vertical-align: center;
 }
 
@@ -141,9 +142,13 @@ header img {
   text-align: left;
   vertical-align: top;
 }
+.hit-stars {
+  font-size: 17px;
+  margin: 4px 0;
+  color: #868686;
+}
 
-
-.hit-content{
+.hit-content .hit-price {
   float: left;
   margin-left: 0px;
   color: #ffffff;
@@ -151,7 +156,7 @@ header img {
   padding: 4px;
   border-radius: 3px;
 }
-.hit-content.hit-content .hit-name {
+.hit-content .hit-price, .hit-content .hit-name {
   font-weight: normal;
   margin-top: 0;
 }
@@ -174,15 +179,16 @@ header img {
   margin: 5px 0 2px 0;
 }
 
-.hit-category-breadcrumb em {
+  .hit-category-breadcrumb em {
     color: inherit;
-}
+  }
 
 .hit-content .hit-description {
   color: #868686;
   margin: 1px 0 10px 0;
-
+  font-size: 14px;
 }
+
 
 /* REFINEMENT LIST */
 
