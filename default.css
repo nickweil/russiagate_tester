@@ -72,6 +72,10 @@ header {
 	margin-right: 25px;
 }
 
+#links img {
+  height: 40px;
+}
+
 #links a:hover
 {
 	color: #ff0000;
