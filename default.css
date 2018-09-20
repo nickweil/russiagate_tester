@@ -32,11 +32,12 @@ main {
 {
 	display:block;
 	float:right;	
-	vertical-align:middle;
+	vertical-align:bottom;
 	margin-right:10px;
 }
 
 #links a, #links a:visited {
+	font-size: 30px;
 	color: #000;
 	text-decoration: none;
 	cursor: pointer;
