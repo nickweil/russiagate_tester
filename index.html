@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <title>The Spygate Project</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3/dist/instantsearch.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
   <!-- Always use `2.x` versions in production rather than `2` to mitigate any side effects on your website,
   Find the latest version on InstantSearch.js website: https://community.algolia.com/instantsearch.js/v2/guides/usage.html -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3/dist/instantsearch.min.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="default.css">
 </head>
 
@@ -19,91 +19,30 @@
   
   <main>
 	<div id="left-column">
-		<div id="search-input">
-			<div class="ais-search-box">
-				<input autocapitalize="off" autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="text" value="" class="ais-search-box--input">
-			</div>
-		</div>
-		<span class="input-group-btn">
-			<button class="btn btn-default">
-				<i class="fa fa-search"></i>
-			</button>
-		</span>
-		</div>
-		<!--<div id="search-suggestions">
-			<div id="search-suggestions-header">TRY:</div>
-			<div id="suggested-searches">"Trump", "Brennan", "Andy", "Bill", "lures", "smell", "arepa" </div>
-		</div>
-		<div class="left-column-header">PICK A DATE</div>
-		<div class="searchbox-container">
-			<div class="input-group">
-				<div class="datepicker-box">
-					<input id="d" type="text" class="date-picker-input" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="" role="textbox" spellcheck="false" value="">
-				</div>
-			</div>
-			<span class="input-group-btn">
-				<button class="btn btn-default">
-					<i class="fa fa-search"></i>
-				</button>
-			</span>
-		</div>
+		<div id="search-input" placeholder="Search for something"></div>
 		<div id="search-suggestions">
 			<div id="search-suggestions-header">TRY:</div>
-			<div id="suggested-searches">
-				7/30/16 (CH start)
-				11/8/16 (Trump wins)
-				5/9/17 (Comey fired)
-				5/17/17 (Mueller)
-			</div>
+			<div id="suggested-searches">"Trump", "Angry", "MYE", "Bill", "lures", "Sunday", "arepa" </div>
 		</div>
-		<div class="left-column-header">SENDER</div>
-		<div id="sender" class="ais-refinementlist">
-			<ul class="ais-refinementlist-list">
-				<li class="ais-refinementlist-item">
-					<label class="ais-refinementlist-label">
-						<input type="checkbox" class="ais-refinementlist-checkbox" value="Strzok">
-						<span class="ais-refinementlist-labeltext">Strzok
-						</span>
-						<span class="ais-refinementlist-labeltext">31
-						</span>
-					</label>
-				</li>
-				<li class="ais-refinementlist-item">
-					<label class="ais-refinementlist-label">
-						<input type="checkbox" class="ais-refinementlist-checkbox" value="Page">
-						<span class="ais-refinementlist-labeltext">Page
-						</span>
-						<span class="ais-refinementlist-labeltext">19
-						</span>
-					</label>
-				</li>
-			<ul>
+		<div class="left-column-header">IMPORTANT DATES</div>
+			<div id="search-suggestions">
+				<div id="search-suggestions-header"></div>
+				<div id="suggested-searches">
+				8/21/15-Strzok assigned to Clinton Case<br/><br/>
+				1/24/16-Page becomes McCabe's counsel<br/><br/>
+				7/5/16-Comey publiclly exonerates Clinton<br/><br/>
+				7/31/16-Start of Crossfire Hurricane<br/><br/>
+				9/9/16-Strzok briefs Mike Pence<br/><br/>
+				11/8/16-Trump wins the 2016 election<br/><br/>
+				1/24/17-Strzok interveiws Mike Flynn<br/><br/>
+				5/9/17-Comey fired as director of FBI<br/><br/>
+				5/17/17-Special Counsel Mueller named
+				</div>
 		</div>
-		<div class="left-column-header">BATCH</div>
-		<div id="sender" class="ais-refinementlist">
-			<ul class="ais-refinementlist-list">
-				<li class="ais-refinementlist-item">
-					<label class="ais-refinementlist-label">
-						<input type="checkbox" class="ais-refinementlist-checkbox" value="Johnson">
-						<span class="ais-refinementlist-labeltext">Ron Johnson
-						</span>
-						<span class="ais-refinementlist-labeltext">31
-						</span>
-					</label>
-				</li>
-				<li class="ais-refinementlist-item">
-					<label class="ais-refinementlist-label">
-						<input type="checkbox" class="ais-refinementlist-checkbox" value="DCNF">
-						<span class="ais-refinementlist-labeltext">Fox/DCNF
-						</span>
-						<span class="ais-refinementlist-labeltext">19
-						</span>
-					</label>
-				</li>
-			<ul>
-		</div>-->
+		<div class="left-column-header">FILTER</div>
+		<div id="batch-refinement"></div>
+		<div id="sender-refinement"></div>
 	</div>
-
 
     <div id="right-column">
 		<div id="hits"></div>
@@ -120,17 +59,18 @@
 <!-- /TEMPLATES -->
 <!-- Add this to your HTML document -->
 <script type="text/html" id="hit-template">
-	<div class="hit">
-		<div class="hit-content">
-			<p class="hit-category-breadcrumb" align="right">{{{date}}} {{{weekday}}}</p>
-		</div>
-		<div class="hit-sender">
-			<img src="{{senderimgurl}}" alt="{{sender}}">
-		</div>
-		<div class="hit-image">
-			<img src="{{textimgurl}}" alt="{{date}}">
-		</div>
-	</div>
+  <div class="hit">
+    <div class="hit-content">
+        <p class="hit-category-breadcrumb">{{{date}}} {{{weekday}}}</p>
+		<!--<h3 class="hit-name">{{{sender}}}</h3>-->
+    </div>
+	<div class="hit-sender">
+		<img src="{{senderimgurl}}" alt="{{sender}}">
+    </div>
+	<div class="hit-image">
+		<img src="{{textimgurl}}" alt="{{date}}">
+    </div>
+  </div>
 </script>
 <!-- /TEMPLATES -->
 

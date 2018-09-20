@@ -19,33 +19,46 @@ search.addWidget(
 
 // Add this after the previous JavaScript code
 search.addWidget(
-	instantsearch.widgets.hits({
-		container: '#hits',
-		templates: {
-			item: document.getElementById('hit-template').innerHTML,
-			empty: "We didn't find any results for the search <em>\"{{query}}\"</em>"
-		}
-	})
+  instantsearch.widgets.hits({
+    container: '#hits',
+    templates: {
+      item: document.getElementById('hit-template').innerHTML,
+      empty: "We didn't find any results for the search <em>\"{{query}}\"</em>"
+    }
+  })
 );
 
 search.addWidget(
-	instantsearch.widgets.refinementList({
-		container: '#sender',
-		attributeName: 'sender',
-		limit: 2,
-	})
-);
+    instantsearch.widgets.refinementList({
+      container: '#batch-refinement',
+      attributeName: 'batch',
+      templates: {
+        header: 'Batch'
+      }
+    })
+  );
+  
+  search.addWidget(
+    instantsearch.widgets.refinementList({
+      container: '#sender-refinement',
+      attributeName: 'sender',
+      templates: {
+        header: 'Sender'
+      }
+    })
+  );
+
 
 // Add this after the other search.addWidget() calls
 search.addWidget(
-	instantsearch.widgets.pagination({
-		container: '#pagination'
-	})
+  instantsearch.widgets.pagination({
+    container: '#pagination'
+  })
 );
 
 
 // Add this after all the search.addWidget() calls
-	search.start();
+search.start();
 
 // ---------------------
 //
@@ -63,4 +76,17 @@ function getHeader(title) {
 function getCategoryBreadcrumb(item) {
   const highlightValues = item._highlightResult.categories || [];
   return highlightValues.map(category => category.value).join(' > ');
+}
+
+function getStarsHTML(rating, maxRating) {
+  let html = '';
+  const newRating = maxRating || 5;
+
+  for (let i = 0; i < newRating; ++i) {
+    html += `<span class="ais-star-rating--star${
+      i < rating ? '' : '__empty'
+    }"></span>`;
+  }
+
+  return html;
 }
