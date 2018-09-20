@@ -32,7 +32,6 @@ main {
 {
 	display:block;
 	float:right;	
-	vertical-align:bottom;
 	margin-right:10px;
 }
 
@@ -41,6 +40,7 @@ main {
 	color: #000;
 	text-decoration: none;
 	cursor: pointer;
+	vertical-align:bottom;
 }
 
 #links a:hover
