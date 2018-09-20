@@ -33,7 +33,7 @@ main {
 	display:inline-block;
 	float:right;	
 	margin-right:10px;
-	margin-top:10px;
+	margin-top:20px;
 }
 
 #links a, #links a:visited {
@@ -41,6 +41,8 @@ main {
 	color: #000;
 	text-decoration: none;
 	cursor: pointer;
+	margin-left: 4px;
+	margin-right: 4px;
 }
 
 #links a:hover
