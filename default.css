@@ -62,7 +62,8 @@ header {
   height: 80px;
   margin-top: 40px;
 }
-header img {
+
+#logo_image {
   position: absolute;
   top: 9px;
   left: 0;
