@@ -41,11 +41,15 @@ header {
   margin-top: 40px;
 }
 
-#logo_image img {
+#logo_image {
   position: absolute;
   top: 9px;
   left: 0;
   float: left;
+  height: 40px;
+}
+
+#logo_image img {
   height: 40px;
 }
   
@@ -56,6 +60,7 @@ header {
 	float:right;	
 	margin-right:10px;
 	margin-top:35px;
+	height: 40px;
 }
 
 #links a, #links a:visited {
