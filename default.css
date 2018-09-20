@@ -28,6 +28,28 @@ main {
   margin-left: 18%;
 }
 
+.clear:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* INPUT */
+header {
+  position: relative;
+  height: 80px;
+  margin-top: 40px;
+}
+
+#logo_image {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  float: left;
+  max-width: 31%;
+}
+  
+  
 #links
 {
 	display:inline-block;
@@ -50,26 +72,6 @@ main {
 	color: #ff0000;
 }
 
-.clear:after {
-  content: '';
-  display: table;
-  clear: both;
-}
-
-/* INPUT */
-header {
-  position: relative;
-  height: 80px;
-  margin-top: 40px;
-}
-
-#logo_image {
-  position: absolute;
-  top: 9px;
-  left: 0;
-  float: left;
-  max-width: 31%;
-}
 .left-column-header {
 	font-size: 14px;
 	margin: 0 0 6px;
