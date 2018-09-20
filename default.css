@@ -30,9 +30,10 @@ main {
 
 #links
 {
-	display:block;
+	display:inline-block;
 	float:right;	
 	margin-right:10px;
+	vertical-align:bottom;
 }
 
 #links a, #links a:visited {
