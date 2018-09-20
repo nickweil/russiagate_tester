@@ -33,7 +33,7 @@ main {
 	display:inline-block;
 	float:right;	
 	margin-right:10px;
-	margin-top:50%;
+	margin-top:10px;
 }
 
 #links a, #links a:visited {
