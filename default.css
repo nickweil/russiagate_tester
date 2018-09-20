@@ -28,6 +28,26 @@ main {
   margin-left: 18%;
 }
 
+#links
+{
+display:block;
+float:right;	
+margin-top:5px;
+margin-right:10px;
+}
+
+#links a, #links a:visited {
+    font-size: 14px;
+    margin-left: 4px;
+    margin-right: 4px;
+    text-decoration: none;
+}
+
+#links a:hover
+{
+border-bottom:dotted 1px #1652B4;
+}
+
 .clear:after {
   content: '';
   display: table;
