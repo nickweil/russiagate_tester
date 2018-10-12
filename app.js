@@ -7,7 +7,7 @@ function myfunction() {
 }
 
 function replaceleftside() {
-    var str = document.getElementById("demo").innerHTML;
+    var str = document.getElementById("myDIV").innerHTML;
 	var dataArr = str.split("rid")
-	document.getElementById("demo").innerHTML = dataArr[0]+ "<span class='redacted'>"+dataArr[1]+"</span>";
+	document.getElementById("myDIV").innerHTML = dataArr[0]+ "<span class='redacted'>"+dataArr[1]+"</span>";
 }
