@@ -8,12 +8,12 @@ function myfunction() {
 
 function replaceleftside() {
     var str = document.getElementById("demo").innerHTML; 
-    var res = str.replace(/[/g, "<span class="redacted">");
+    var res = str.replace(/rid/g, "<span class="redacted">");
     document.getElementById("demo").innerHTML = res;
 }
 
 function replacerightside() {
     var str = document.getElementById("demo").innerHTML; 
-    var res = str.replace(/]/g, "</span>");
+    var res = str.replace(/rad/g, "</span>");
     document.getElementById("demo").innerHTML = res;
 }
