@@ -29,6 +29,11 @@ header {
   margin-top: 40px;
 }
 
+ .redacted {
+   color: #000;
+   background-color: #000;
+ }
+
 #logo_image {
   position: absolute;
   top: 9px;
