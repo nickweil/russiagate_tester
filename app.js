@@ -6,7 +6,6 @@ function myfunction() {
 	document.getElementById('demo').style.backgroundColor = "lightblue";
 }
 
-
 function replaceleftside() {
     var str = document.getElementById("demo").innerHTML; 
     var res = str.replace(/[*/g, "<span class="redacted">");
