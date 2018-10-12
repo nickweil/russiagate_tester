@@ -18,7 +18,3 @@ function replacerightside() {
     var res = str.replace(*]/g, "</span>");
     document.getElementById("demo").innerHTML = res;
 }
-
-"[*" "<span class="redacted">"
-
-"*]" "</span>"
