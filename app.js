@@ -14,6 +14,6 @@ function replaceleftside() {
 
 function replacerightside() {
     var str = document.getElementById("demo").innerHTML; 
-    var res = str.replace(]/g, "</span>");
+    var res = str.replace(/]/g, "</span>");
     document.getElementById("demo").innerHTML = res;
 }
