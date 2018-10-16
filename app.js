@@ -21,5 +21,5 @@ function replacesides() {
 */
 function replacesides() {
 	var str = document.getElementsByClassName("myDIV").innerHTML;
-    document.getElementById("myDIV").innerHTML = x.length;
+    document.getElementById("myDIV").innerHTML = str.length;
 }
