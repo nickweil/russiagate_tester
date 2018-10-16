@@ -20,6 +20,6 @@ function replacesides() {
 }
 */
 function replacesides() {
-	var str = document.getElementsByClassName("myDIV").innerHTML;
-    document.getElementById("demo").innerHTML = str.length;
+	var x = document.querySelectorAll("p");
+    x[0].style.backgroundColor = "red";
 }
