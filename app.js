@@ -20,6 +20,6 @@ function replacesides() {
 }
 */
 function replacesides() {
-	var x = document.querySelectorAll(/[\/);
+	var x = document.querySelectorAll(/\[/);
     x[0].style.backgroundColor = "red";
 }
