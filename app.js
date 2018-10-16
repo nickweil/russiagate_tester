@@ -14,6 +14,6 @@
 
 function replacesides() {
 	var string_in = document.getElementById("myDIV").innerHTML;
-	var str = string_in.replace('rid', 'ble');
+	var str = string_in.replace('rid', "<span class='redacted'>");
 	document.getElementById("myDIV").innerHTML = str;
 }
