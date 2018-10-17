@@ -26,5 +26,7 @@ function replacesides() {
 	for (i = 0; i < x.length; i++) {
 		x[i].innerHTML=x[i].innerHTML.replace(/\[/g, "<span class='redacted'>");
 		x[i].innerHTML=x[i].innerHTML.replace(/\]/g, "</span>");
+		x[i].innerHTML=x[i].innerHTML.replace(/\\n/g, "</br>");
+		x[i].innerHTML=x[i].innerHTML.replace(/\\U000/g, "&#x");
 	}
 }
