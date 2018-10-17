@@ -14,7 +14,7 @@
 /*
 function replacesides() {
 	var str = document.getElementById("myDIV").innerHTML;
-	str = str.replace(/\[/g, "<span class='redacted'>");
+
 	str = str.replace(/\]/g, "</span>");
 	document.getElementById("myDIV").innerHTML = str;
 }
