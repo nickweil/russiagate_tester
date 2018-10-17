@@ -19,7 +19,11 @@ function replacesides() {
 	document.getElementById("myDIV").innerHTML = str;
 }
 */
+
 function replacesides() {
-	var x = document.querySelectorAll(/\n/g);
-    x[0].style.backgroundColor = "red";
+	var x = document.querySelectorAll(".myDIV");
+	var i;
+	for (i = 0; i < x.length; i++) {
+		x[i].style.backgroundColor = "red";
+	}
 }
