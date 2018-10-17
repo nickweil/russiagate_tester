@@ -25,7 +25,7 @@ function replacesides() {
 	var i;
 	for (i = 0; i < x.length; i++) {
 		x[i].style.backgroundColor = "red";
-		x[i].innerHTML=str.replace(/\[/g, "<span class='redacted'>");
-		x[i].innerHTML=str.replace(/\]/g, "</span>");
+		x[i].innerHTML=str.replace("blah", "bleh");
+		//x[i].innerHTML=str.replace(/\]/g, "</span>");
 	}
 }
