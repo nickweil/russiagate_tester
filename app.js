@@ -24,8 +24,7 @@ function replacesides() {
 	var x = document.querySelectorAll(".myDIV");
 	var i;
 	for (i = 0; i < x.length; i++) {
-		x[i].style.backgroundColor = "red";
+		x[i].innerHTML=x[i].innerHTML.replace(/\[/g, "<span class='redacted'>");
 		x[i].innerHTML=x[i].innerHTML.replace(/\]/g, "</span>");
-		//x[i].innerHTML=str.replace(/\]/g, "</span>");
 	}
 }
