@@ -31,11 +31,11 @@ body {
 }
 
 .ais-Hits-item {
-  margin-top: 0.1em;
-  margin-bottom: 0.1em;
+  margin-top: 0em;
+  margin-bottom: 0em;
   margin-right: 0em;
   margin-left: 1em;
-  padding: 0.1rem;
+  padding: 0rem;
   width: calc(100% - 1rem);
   border: none;
   box-shadow: none;
