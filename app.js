@@ -34,6 +34,7 @@ search.addWidget(
           <div class="hit-name">
             {{date}} {{weekday}}
           </div>
+		  <img src="{{textimgurl}}" alt="{{contents}}" />
         </div>
       `,
     },
