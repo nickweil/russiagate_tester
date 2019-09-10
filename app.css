@@ -41,10 +41,6 @@ body {
   flex-wrap: nowrap;
 }
 
-.ais-Hits-item img {
-  margin-right: 1em;
-}
-
 .hit-name {
   margin-bottom: 0.5em;
   width:10%;
