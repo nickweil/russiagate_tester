@@ -50,8 +50,16 @@ body {
   width:10%;
 }
 
+.sender img {
+  width:100%;
+}
+
 .text {
   width:50%;
+}
+
+.text img {
+  width:100%;
 }
 
 .hit-description {
