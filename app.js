@@ -1,8 +1,8 @@
 /* global instantsearch algoliasearch */
 
 const search = instantsearch({
-  indexName: 'demo_ecommerce',
-  searchClient: algoliasearch('B1G2GM9NG0', 'aadef574be1f9252bb48d4ea09b5cfe5'),
+  indexName: 'texts',
+  searchClient: algoliasearch('DTH6V8NWJ2', 'fd1f8a02a87cf784faf55a8a686700e7'),
 });
 
 search.addWidget(
@@ -30,14 +30,10 @@ search.addWidget(
     templates: {
       item: `
         <div>
-          <img src="{{image}}" align="left" alt="{{name}}" />
+          <img src="{{senderimgurl}}" align="left" alt="{{sender}}" />
           <div class="hit-name">
-            {{#helpers.highlight}}{ "attribute": "name" }{{/helpers.highlight}}
+            {{date}} {{weekday}}
           </div>
-          <div class="hit-description">
-            {{#helpers.highlight}}{ "attribute": "description" }{{/helpers.highlight}}
-          </div>
-          <div class="hit-price">\${{price}}</div>
         </div>
       `,
     },
