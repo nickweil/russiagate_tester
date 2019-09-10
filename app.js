@@ -19,8 +19,8 @@ search.addWidget(
 
 search.addWidget(
   instantsearch.widgets.refinementList({
-    container: '#brand-list',
-    attribute: 'brand',
+    container: '#batch-refinement',
+    attribute: 'batch',
   })
 );
 
