@@ -50,3 +50,17 @@ body {
   font-size: 14px;
   margin-bottom: 0.5em;
 }
+
+.ais-RangeSlider .rheostat-tooltip::before {
+  color: #e2a400;
+  content: '$';
+  font-size: 0.6;
+  margin-right: 4px;
+}
+
+
+.ais-RangeSlider .rheostat-handle {
+  height: 1.5rem;
+  top: -12px;
+  width: 1.5rem;
+}
