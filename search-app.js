@@ -42,6 +42,16 @@ search.addWidget(
     })
   );
   
+search.addWidget(
+    instantsearch.widgets.refinementList({
+      container: '#sender-refinement',
+      attributeName: 'sender',
+      templates: {
+        header: 'Sender'
+      }
+    })
+  );
+  
   search.addWidget(
     instantsearch.widgets.refinementList({
       container: '#sender-refinement',
