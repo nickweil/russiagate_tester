@@ -33,6 +33,8 @@ body {
 .ais-Hits-item {
   margin-bottom: 1em;
   width: calc(100% - 1rem);
+  border: none;
+  box-shadow: none;
 }
 
 .ais-Hits-item img {
