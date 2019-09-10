@@ -31,6 +31,12 @@ search.addWidget(
   })
 );
 
+instantsearch.widgets.rangeSlider({
+  container: '#range-slider',
+  attribute: 'unixtimestamp',
+  pips: false,
+});
+
 search.addWidget(
   instantsearch.widgets.hits({
     container: '#hits',
