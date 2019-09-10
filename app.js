@@ -51,7 +51,7 @@ search.addWidget(
             <img src="{{senderimgurl}}" align="left" alt="{{sender}}" />
           </div>
           <div class="hit-name">
-            {{date}} {{weekday}}
+            {{date}}
           </div>
       `,
     },
