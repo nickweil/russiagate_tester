@@ -44,13 +44,15 @@ search.addWidget(
     container: '#hits',
     templates: {
       item: `
-        <div>
-          <img src="{{senderimgurl}}" align="left" alt="{{sender}}" />
+          <div class="sender">
+            <img src="{{senderimgurl}}" align="left" alt="{{sender}}" />
+          </div>
           <div class="hit-name">
             {{date}} {{weekday}}
           </div>
-		  <img src="{{textimgurl}}" alt="{{contents}}" />
-        </div>
+          <div class="text">
+		    <img src="{{textimgurl}}" alt="{{contents}}" />
+		  </div>
       `,
     },
   })

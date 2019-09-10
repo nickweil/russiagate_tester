@@ -45,6 +45,14 @@ body {
   margin-bottom: 0.5em;
 }
 
+.sender img {
+  align: left;
+}
+
+.text img {
+  align: right;
+}
+
 .hit-description {
   color: #888;
   font-size: 14px;
