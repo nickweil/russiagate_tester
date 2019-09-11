@@ -41,9 +41,13 @@
 }
 
 .slider {
-	width: 80%;
-	padding: 0.1em;
-	float: center;
+	width: 100%;
+	display: flex;
+	align-content: center;
+}
+
+#range-slider {
+	width: 90%;
 }
 
 .hit-name {
