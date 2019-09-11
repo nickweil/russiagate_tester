@@ -45,8 +45,8 @@ search.addWidget(
 		var day = date.getDate();
 		var convdate = month+'/'+day+'/'+year;
 		return convdate;
-      },
-  })
+      }
+  }),
 );
 
 search.addWidget(
