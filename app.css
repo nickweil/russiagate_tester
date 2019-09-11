@@ -40,6 +40,12 @@
   flex-wrap: nowrap;
 }
 
+.ais-rangeslider {
+	width: 90%;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
 .hit-name {
   width:10%;
 }
