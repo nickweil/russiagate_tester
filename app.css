@@ -40,10 +40,9 @@
   flex-wrap: nowrap;
 }
 
-.range-slider {
+.slider {
 	width: 90%;
-	margin-top: 2px;
-	margin-bottom: 2px;
+	padding: 0.1em;
 }
 
 .hit-name {
